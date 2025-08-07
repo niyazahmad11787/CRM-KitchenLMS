@@ -1,0 +1,26 @@
+[INFO ] 24 Jul 2025 15:39:04,117 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Chrome launched successfully
+[INFO ] 24 Jul 2025 15:39:04,162 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Maximized browser
+[INFO ] 24 Jul 2025 15:39:04,175 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Deleted all cookies
+[INFO ] 24 Jul 2025 15:39:05,316 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- UserId is Entered!!
+[INFO ] 24 Jul 2025 15:39:05,410 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Password is Entered!!!
+[INFO ] 24 Jul 2025 15:39:05,490 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Clicked on Login Button!!
+[INFO ] 24 Jul 2025 15:39:05,744 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Customer Creation test Started !!!!
+[INFO ] 24 Jul 2025 15:39:06,032 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Customer Icon on HomePage..
+[INFO ] 24 Jul 2025 15:39:06,981 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Add Customer button..
+[INFO ] 24 Jul 2025 15:39:07,149 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Random Mobile Number generated :
+[INFO ] 24 Jul 2025 15:39:07,172 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Enter Mobile Number.....
+[INFO ] 24 Jul 2025 15:39:07,258 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Generate Otp button!!
+[INFO ] 24 Jul 2025 15:39:11,503 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Enter otp and click on Submit button!!
+[INFO ] 24 Jul 2025 15:39:14,062 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Select Contractor customer type and Architect Sub-customer type from dropdown!!!
+[INFO ] 24 Jul 2025 15:39:14,483 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Enter GST number!!
+[INFO ] 24 Jul 2025 15:39:15,361 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Business Name is correctly auto-populated and non-editable.
+[INFO ] 24 Jul 2025 15:39:16,418 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Business Address Line 1 is correctly auto-populated and editable.
+[INFO ] 24 Jul 2025 15:39:17,511 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Business Address Line 2 is correctly auto-populated and editable.
+[INFO ] 24 Jul 2025 15:39:19,231 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Form Redirected to step two: https://orders.hippobetabox.in/customer/add?step=2&mobile=8294374199
+[INFO ] 24 Jul 2025 15:39:19,235 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Enter First & Last Name!!
+[INFO ] 24 Jul 2025 15:39:20,005 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Entered alternate mobile number
+[INFO ] 24 Jul 2025 15:39:20,531 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Entered email Id!!
+[INFO ] 24 Jul 2025 15:39:24,885 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Calculated Age is ->
+[INFO ] 24 Jul 2025 15:39:25,039 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :-  is Selected!!
+[INFO ] 24 Jul 2025 15:39:25,165 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :-  is Selected!!
+[INFO ] 24 Jul 2025 15:39:26,116 com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne :- Selected income range: 10 - 50 Lakhs

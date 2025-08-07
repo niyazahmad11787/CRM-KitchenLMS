@@ -1,0 +1,23 @@
+[INFO ] 29 Jul 2025 14:15:11,124 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Chrome launched successfully
+[INFO ] 29 Jul 2025 14:15:11,166 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Maximized browser
+[INFO ] 29 Jul 2025 14:15:11,176 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Deleted all cookies
+[INFO ] 29 Jul 2025 14:15:12,154 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- UserId is Entered!!
+[INFO ] 29 Jul 2025 14:15:12,256 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Password is Entered!!!
+[INFO ] 29 Jul 2025 14:15:12,352 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Jul 2025 14:15:13,246 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Search Created Customer!!!
+[INFO ] 29 Jul 2025 14:15:17,629 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Click on Site tab!!
+[INFO ] 29 Jul 2025 14:15:19,766 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Click on Add Site Button !!
+[INFO ] 29 Jul 2025 14:15:21,869 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Select Type of project and type of site!!
+[INFO ] 29 Jul 2025 14:15:22,373 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Randomly selected option: Repair-Maintenance
+[INFO ] 29 Jul 2025 14:15:22,765 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Randomly selected option:
+[INFO ] 29 Jul 2025 14:15:22,765 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Enter Address Details !!!
+[INFO ] 29 Jul 2025 14:15:24,128 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Enter Other Details like Carpet Area !!!
+[INFO ] 29 Jul 2025 14:15:24,232 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Enter Tentative Possessions Date!!!
+[ERROR] 29 Jul 2025 14:15:24,233 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- The specified date is not in the future. Please provide a valid future date.
+[INFO ] 29 Jul 2025 14:15:24,237 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Specific Date: 28/12/2024
+[INFO ] 29 Jul 2025 14:15:24,346 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Specific date entered successfully!
+[INFO ] 29 Jul 2025 14:15:25,525 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Site created successfully! Redirected to: https://orders.hippobetabox.in/crm/customers/a5659395-04e3-4e9a-adc4-c768e016e702
+[INFO ] 29 Jul 2025 14:15:25,934 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Click on created site!!
+[INFO ] 29 Jul 2025 14:15:26,827 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Site code is : null
+[INFO ] 29 Jul 2025 14:15:26,892 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Click on Scope of work tab!!!
+[INFO ] 29 Jul 2025 14:16:07,052 com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality :- Click on Modular Kitchen Checkbox!!

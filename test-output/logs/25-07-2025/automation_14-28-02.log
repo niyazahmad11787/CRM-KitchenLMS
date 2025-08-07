@@ -1,0 +1,70 @@
+[INFO ] 25 Jul 2025 14:28:04,789 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Chrome launched successfully
+[INFO ] 25 Jul 2025 14:28:04,857 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Maximized browser
+[INFO ] 25 Jul 2025 14:28:04,879 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Deleted all cookies
+[INFO ] 25 Jul 2025 14:28:06,357 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- UserId is Entered!!
+[INFO ] 25 Jul 2025 14:28:06,509 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Password is Entered!!!
+[INFO ] 25 Jul 2025 14:28:06,668 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on Login Button!!
+[INFO ] 25 Jul 2025 14:28:07,061 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Customer Creation test Started !!!!
+[INFO ] 25 Jul 2025 14:28:07,243 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Customer Icon on HomePage..
+[INFO ] 25 Jul 2025 14:28:08,349 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Add Customer button..
+[INFO ] 25 Jul 2025 14:28:08,593 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Random Mobile Number generated :
+[INFO ] 25 Jul 2025 14:28:08,634 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Enter Mobile Number.....
+[INFO ] 25 Jul 2025 14:28:08,826 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Generate Otp button!!
+[INFO ] 25 Jul 2025 14:28:13,220 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Enter otp and click on Submit button!!
+[INFO ] 25 Jul 2025 14:28:16,487 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Select Contractor customer type and Architect Sub-customer type from dropdown!!!
+[INFO ] 25 Jul 2025 14:28:17,034 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Enter GST number!!
+[INFO ] 25 Jul 2025 14:28:18,197 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Business Name is correctly auto-populated and non-editable.
+[INFO ] 25 Jul 2025 14:28:19,266 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Business Address Line 1 is correctly auto-populated and editable.
+[INFO ] 25 Jul 2025 14:28:20,332 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Business Address Line 2 is correctly auto-populated and editable.
+[INFO ] 25 Jul 2025 14:28:22,146 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Form Redirected to step two: https://orders.hippobetabox.in/customer/add?step=2&mobile=9217736789
+[INFO ] 25 Jul 2025 14:28:22,153 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Enter First & Last Name!!
+[INFO ] 25 Jul 2025 14:28:22,997 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Entered alternate mobile number
+[INFO ] 25 Jul 2025 14:28:23,598 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Entered email Id!!
+[INFO ] 25 Jul 2025 14:28:27,968 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Calculated Age is ->
+[INFO ] 25 Jul 2025 14:28:28,151 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :-  is Selected!!
+[INFO ] 25 Jul 2025 14:28:28,433 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :-  is Selected!!
+[INFO ] 25 Jul 2025 14:28:29,639 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Selected income range: 10 - 50 Lakhs
+[INFO ] 25 Jul 2025 14:28:39,959 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on Capture photo button
+[INFO ] 25 Jul 2025 14:28:42,465 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on Submit button !!!
+[INFO ] 25 Jul 2025 14:28:52,154 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- ✅ Customer created successfully and redirected to customer list page.
+[INFO ] 25 Jul 2025 14:28:53,011 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Logout Successfully!!!
+[INFO ] 25 Jul 2025 14:28:53,285 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- UserId is Entered!!
+[INFO ] 25 Jul 2025 14:28:53,436 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Password is Entered!!!
+[INFO ] 25 Jul 2025 14:28:55,605 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on Login Button!!
+[INFO ] 25 Jul 2025 14:28:57,731 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Customer Icon on HomePage..
+[INFO ] 25 Jul 2025 14:28:58,040 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on approval icon!!
+[INFO ] 25 Jul 2025 14:29:00,202 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on Aadhaar Card
+[INFO ] 25 Jul 2025 14:29:02,356 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:04,531 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on PAN Card
+[INFO ] 25 Jul 2025 14:29:06,708 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:08,897 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on Visiting Card
+[INFO ] 25 Jul 2025 14:29:11,077 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:13,313 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on Site Photo
+[INFO ] 25 Jul 2025 14:29:15,448 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:17,592 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on Customer Photo
+[INFO ] 25 Jul 2025 14:29:19,750 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:21,887 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on Cancelled Cheque
+[INFO ] 25 Jul 2025 14:29:24,042 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:24,774 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Reviewer approved the profile!!
+[INFO ] 25 Jul 2025 14:29:27,007 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on Ok button!!
+[INFO ] 25 Jul 2025 14:29:27,491 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Logout Successfully!!!
+[INFO ] 25 Jul 2025 14:29:27,709 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- UserId is Entered!!
+[INFO ] 25 Jul 2025 14:29:27,816 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Password is Entered!!!
+[INFO ] 25 Jul 2025 14:29:29,928 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on Login Button!!
+[INFO ] 25 Jul 2025 14:29:32,048 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Customer Icon on HomePage..
+[INFO ] 25 Jul 2025 14:29:32,434 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on approval icon!!
+[INFO ] 25 Jul 2025 14:29:34,579 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on Aadhaar Card
+[INFO ] 25 Jul 2025 14:29:36,732 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:38,877 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on PAN Card
+[INFO ] 25 Jul 2025 14:29:41,040 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:43,173 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on Visiting Card
+[INFO ] 25 Jul 2025 14:29:45,334 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:47,467 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on Site Photo
+[INFO ] 25 Jul 2025 14:29:49,618 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:51,733 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on Customer Photo
+[INFO ] 25 Jul 2025 14:29:53,895 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:56,035 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- View button is enabled and Clicked on Cancelled Cheque
+[INFO ] 25 Jul 2025 14:29:58,182 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 14:29:58,901 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Reviewer approved the profile!!
+[INFO ] 25 Jul 2025 14:30:01,106 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Clicked on Ok button!!
+[INFO ] 25 Jul 2025 14:30:01,506 com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality :- Logout Successfully!!!

@@ -1,0 +1,74 @@
+[INFO ] 25 Jul 2025 17:19:33,414 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Chrome launched successfully
+[INFO ] 25 Jul 2025 17:19:33,514 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Maximized browser
+[INFO ] 25 Jul 2025 17:19:33,541 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Deleted all cookies
+[INFO ] 25 Jul 2025 17:19:35,323 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- UserId is Entered!!
+[INFO ] 25 Jul 2025 17:19:35,572 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Password is Entered!!!
+[INFO ] 25 Jul 2025 17:19:35,791 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on Login Button!!
+[INFO ] 25 Jul 2025 17:19:36,421 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Customer Creation test Started !!!!
+[INFO ] 25 Jul 2025 17:19:36,618 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 25 Jul 2025 17:19:37,805 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Click on Add Customer button..
+[INFO ] 25 Jul 2025 17:19:38,230 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Random Mobile Number generated : 6384698489
+[INFO ] 25 Jul 2025 17:19:38,334 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Enter Mobile Number.....
+[INFO ] 25 Jul 2025 17:19:38,680 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Click on Generate Otp button!!
+[INFO ] 25 Jul 2025 17:19:43,866 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Enter otp and click on Submit button!!
+[INFO ] 25 Jul 2025 17:19:46,790 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Select Contractor customer type and Architect Sub-customer type from dropdown!!!
+[INFO ] 25 Jul 2025 17:19:48,040 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Enter GST number!!
+[INFO ] 25 Jul 2025 17:19:49,507 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Business Name is correctly auto-populated and non-editable.
+[INFO ] 25 Jul 2025 17:19:50,625 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Business Address Line 1 is correctly auto-populated and editable.
+[INFO ] 25 Jul 2025 17:19:51,743 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Business Address Line 2 is correctly auto-populated and editable.
+[INFO ] 25 Jul 2025 17:19:53,864 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Form Redirected to step two: https://orders.hippobetabox.in/customer/add?step=2&mobile=6384698489
+[INFO ] 25 Jul 2025 17:19:53,899 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Enter First & Last Name!!
+[INFO ] 25 Jul 2025 17:19:55,157 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Entered alternate mobile number
+[INFO ] 25 Jul 2025 17:19:55,789 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Entered email Id!!
+[INFO ] 25 Jul 2025 17:20:00,303 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Calculated Age is ->
+[INFO ] 25 Jul 2025 17:20:00,625 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :-  is Selected!!
+[INFO ] 25 Jul 2025 17:20:00,924 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :-  is Selected!!
+[INFO ] 25 Jul 2025 17:20:02,487 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Selected income range: 10 - 50 Lakhs
+[INFO ] 25 Jul 2025 17:20:13,353 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on Capture photo button
+[INFO ] 25 Jul 2025 17:20:15,724 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on Submit button !!!
+[INFO ] 25 Jul 2025 17:20:24,632 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- ✅ Customer created successfully and redirected to customer list page.
+[INFO ] 25 Jul 2025 17:20:25,810 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Logout Successfully!!!
+[INFO ] 25 Jul 2025 17:20:26,160 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- UserId is Entered!!
+[INFO ] 25 Jul 2025 17:20:26,334 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Password is Entered!!!
+[INFO ] 25 Jul 2025 17:20:28,534 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on Login Button!!
+[INFO ] 25 Jul 2025 17:20:30,672 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 25 Jul 2025 17:20:31,024 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on approval icon!!
+[INFO ] 25 Jul 2025 17:20:33,323 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on Aadhaar Card
+[INFO ] 25 Jul 2025 17:20:35,521 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:20:37,664 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on PAN Card
+[INFO ] 25 Jul 2025 17:20:39,837 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:20:41,986 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on Visiting Card
+[INFO ] 25 Jul 2025 17:20:44,290 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:20:46,447 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on Site Photo
+[INFO ] 25 Jul 2025 17:20:48,685 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:20:50,851 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on Customer Photo
+[INFO ] 25 Jul 2025 17:20:53,159 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:20:55,296 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on Cancelled Cheque
+[INFO ] 25 Jul 2025 17:20:57,641 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:20:58,540 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Reviewer approved the profile!!
+[INFO ] 25 Jul 2025 17:21:00,869 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on Ok button!!
+[INFO ] 25 Jul 2025 17:21:01,449 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Logout Successfully!!!
+[INFO ] 25 Jul 2025 17:21:01,798 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- UserId is Entered!!
+[INFO ] 25 Jul 2025 17:21:02,014 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Password is Entered!!!
+[INFO ] 25 Jul 2025 17:21:04,233 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on Login Button!!
+[INFO ] 25 Jul 2025 17:21:06,402 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 25 Jul 2025 17:21:06,961 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on approval icon!!
+[INFO ] 25 Jul 2025 17:21:09,207 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on Aadhaar Card
+[INFO ] 25 Jul 2025 17:21:11,444 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:21:13,588 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on PAN Card
+[INFO ] 25 Jul 2025 17:21:15,763 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:21:17,925 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on Visiting Card
+[INFO ] 25 Jul 2025 17:21:20,149 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:21:22,345 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on Site Photo
+[INFO ] 25 Jul 2025 17:21:24,595 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:21:26,746 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on Customer Photo
+[INFO ] 25 Jul 2025 17:21:28,927 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:21:31,079 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- View button is enabled and Clicked on Cancelled Cheque
+[INFO ] 25 Jul 2025 17:21:33,357 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 17:21:34,287 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Reviewer approved the profile!!
+[INFO ] 25 Jul 2025 17:21:36,530 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on Ok button!!
+[INFO ] 25 Jul 2025 17:21:37,084 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Logout Successfully!!!
+[INFO ] 25 Jul 2025 17:22:57,383 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Search Created Customer!!!
+[INFO ] 25 Jul 2025 17:23:19,429 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Click on Site tab!!
+[INFO ] 25 Jul 2025 17:23:39,654 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Click on Add Site Button !!
+[INFO ] 25 Jul 2025 17:23:59,874 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Select Type of project and type of site!!

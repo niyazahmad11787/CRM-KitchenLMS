@@ -1,0 +1,7 @@
+[INFO ] 28 Jul 2025 16:23:28,208 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Chrome launched successfully
+[INFO ] 28 Jul 2025 16:23:28,262 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Maximized browser
+[INFO ] 28 Jul 2025 16:23:28,278 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Deleted all cookies
+[INFO ] 28 Jul 2025 16:23:30,121 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- UserId is Entered!!
+[INFO ] 28 Jul 2025 16:23:30,274 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Password is Entered!!!
+[INFO ] 28 Jul 2025 16:23:30,418 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on Login Button!!
+[INFO ] 28 Jul 2025 16:23:30,742 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Customer Creation test Started !!!!

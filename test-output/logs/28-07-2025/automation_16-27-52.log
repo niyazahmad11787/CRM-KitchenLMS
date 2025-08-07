@@ -1,0 +1,98 @@
+[INFO ] 28 Jul 2025 16:27:55,263 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Chrome launched successfully
+[INFO ] 28 Jul 2025 16:27:55,348 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Maximized browser
+[INFO ] 28 Jul 2025 16:27:55,372 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Deleted all cookies
+[INFO ] 28 Jul 2025 16:27:57,509 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- UserId is Entered!!
+[INFO ] 28 Jul 2025 16:27:57,655 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Password is Entered!!!
+[INFO ] 28 Jul 2025 16:27:57,852 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on Login Button!!
+[INFO ] 28 Jul 2025 16:27:58,288 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Customer Creation test Started !!!!
+[INFO ] 28 Jul 2025 16:27:58,540 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 28 Jul 2025 16:28:00,161 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Click on Add Customer button..
+[INFO ] 28 Jul 2025 16:28:00,479 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Random Mobile Number generated : 8722313805
+[INFO ] 28 Jul 2025 16:28:00,515 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Enter Mobile Number.....
+[INFO ] 28 Jul 2025 16:28:00,666 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Click on Generate Otp button!!
+[INFO ] 28 Jul 2025 16:28:05,125 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Enter otp and click on Submit button!!
+[INFO ] 28 Jul 2025 16:28:07,934 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Select Contractor customer type and Architect Sub-customer type from dropdown!!!
+[INFO ] 28 Jul 2025 16:28:08,379 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Enter GST number!!
+[INFO ] 28 Jul 2025 16:28:09,802 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Business Name is correctly auto-populated and non-editable.
+[INFO ] 28 Jul 2025 16:28:10,870 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Business Address Line 1 is correctly auto-populated and editable.
+[INFO ] 28 Jul 2025 16:28:11,932 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Business Address Line 2 is correctly auto-populated and editable.
+[INFO ] 28 Jul 2025 16:28:13,433 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Form Redirected to step two: https://orders.hippobetabox.in/customer/add?step=2&mobile=8722313805
+[INFO ] 28 Jul 2025 16:28:13,439 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Enter First & Last Name!!
+[INFO ] 28 Jul 2025 16:28:14,326 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Entered alternate mobile number
+[INFO ] 28 Jul 2025 16:28:14,788 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Entered email Id!!
+[INFO ] 28 Jul 2025 16:28:19,057 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Calculated Age is ->
+[INFO ] 28 Jul 2025 16:28:19,193 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :-  is Selected!!
+[INFO ] 28 Jul 2025 16:28:19,317 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :-  is Selected!!
+[INFO ] 28 Jul 2025 16:28:20,158 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Selected income range: 10 - 50 Lakhs
+[INFO ] 28 Jul 2025 16:28:30,525 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on Capture photo button
+[INFO ] 28 Jul 2025 16:28:32,002 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on Submit button !!!
+[INFO ] 28 Jul 2025 16:28:42,009 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- ✅ Customer created successfully and redirected to customer list page.
+[INFO ] 28 Jul 2025 16:28:42,532 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Logout Successfully!!!
+[INFO ] 28 Jul 2025 16:28:42,678 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- UserId is Entered!!
+[INFO ] 28 Jul 2025 16:28:42,767 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Password is Entered!!!
+[INFO ] 28 Jul 2025 16:28:44,869 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on Login Button!!
+[INFO ] 28 Jul 2025 16:28:46,956 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 28 Jul 2025 16:28:47,304 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on approval icon!!
+[INFO ] 28 Jul 2025 16:28:49,417 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on Aadhaar Card
+[INFO ] 28 Jul 2025 16:28:51,535 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:28:53,646 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on PAN Card
+[INFO ] 28 Jul 2025 16:28:55,793 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:28:57,894 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on Visiting Card
+[INFO ] 28 Jul 2025 16:29:00,025 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:29:02,136 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on Site Photo
+[INFO ] 28 Jul 2025 16:29:04,257 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:29:06,359 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on Customer Photo
+[INFO ] 28 Jul 2025 16:29:08,478 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:29:10,581 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on Cancelled Cheque
+[INFO ] 28 Jul 2025 16:29:12,698 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:29:13,380 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Reviewer approved the profile!!
+[INFO ] 28 Jul 2025 16:29:15,528 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on Ok button!!
+[INFO ] 28 Jul 2025 16:29:16,289 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Logout Successfully!!!
+[INFO ] 28 Jul 2025 16:29:16,408 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- UserId is Entered!!
+[INFO ] 28 Jul 2025 16:29:16,480 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Password is Entered!!!
+[INFO ] 28 Jul 2025 16:29:18,583 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on Login Button!!
+[INFO ] 28 Jul 2025 16:29:20,711 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 28 Jul 2025 16:29:21,270 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on approval icon!!
+[INFO ] 28 Jul 2025 16:29:23,359 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on Aadhaar Card
+[INFO ] 28 Jul 2025 16:29:25,476 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:29:27,570 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on PAN Card
+[INFO ] 28 Jul 2025 16:29:29,693 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:29:31,778 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on Visiting Card
+[INFO ] 28 Jul 2025 16:29:33,890 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:29:35,999 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on Site Photo
+[INFO ] 28 Jul 2025 16:29:38,125 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:29:40,226 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on Customer Photo
+[INFO ] 28 Jul 2025 16:29:42,327 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:29:44,421 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- View button is enabled and Clicked on Cancelled Cheque
+[INFO ] 28 Jul 2025 16:29:46,546 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on close pdf icon.
+[INFO ] 28 Jul 2025 16:29:47,209 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Reviewer approved the profile!!
+[INFO ] 28 Jul 2025 16:29:49,333 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on Ok button!!
+[INFO ] 28 Jul 2025 16:29:49,591 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Logout Successfully!!!
+[INFO ] 28 Jul 2025 16:29:49,756 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- UserId is Entered!!
+[INFO ] 28 Jul 2025 16:29:49,858 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Password is Entered!!!
+[INFO ] 28 Jul 2025 16:29:49,956 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on Login Button!!
+[INFO ] 28 Jul 2025 16:29:51,843 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Search Created Customer!!!
+[INFO ] 28 Jul 2025 16:29:56,111 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Click on Site tab!!
+[INFO ] 28 Jul 2025 16:29:58,181 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Click on Add Site Button !!
+[INFO ] 28 Jul 2025 16:29:58,447 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Select Type of project and type of site!!
+[INFO ] 28 Jul 2025 16:29:59,330 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Randomly selected option:
+[INFO ] 28 Jul 2025 16:29:59,798 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Randomly selected option: G+4
+[INFO ] 28 Jul 2025 16:29:59,799 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Enter Address Details !!!
+[INFO ] 28 Jul 2025 16:30:02,108 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Enter Other Details like Carpet Area !!!
+[INFO ] 28 Jul 2025 16:30:02,205 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Enter Tentative Possessions Date!!!
+[ERROR] 28 Jul 2025 16:30:02,205 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- The specified date is not in the future. Please provide a valid future date.
+[INFO ] 28 Jul 2025 16:30:02,208 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Specific Date: 28/12/2024
+[INFO ] 28 Jul 2025 16:30:02,329 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Specific date entered successfully!
+[INFO ] 28 Jul 2025 16:30:03,483 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Site created successfully! Redirected to: https://orders.hippobetabox.in/crm/customers/3f94de60-acc6-4cf9-8bab-44f3fe4dcf63
+[INFO ] 28 Jul 2025 16:30:03,910 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Click on created site!!
+[INFO ] 28 Jul 2025 16:30:04,603 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Site code is : S/NOS1/178
+[INFO ] 28 Jul 2025 16:30:04,825 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Click on Scope of work tab!!!
+[INFO ] 28 Jul 2025 16:30:06,239 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Click on Modular Kitchen Checkbox!!
+[INFO ] 28 Jul 2025 16:30:06,458 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Checkbox for 'MODULAR KITCHEN' is not selected. Selecting it now.
+[INFO ] 28 Jul 2025 16:30:06,522 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Select Follow Up Date....
+[ERROR] 28 Jul 2025 16:30:06,721 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Date field already has a value: 30-07-2025. Updating to the specific date.
+[INFO ] 28 Jul 2025 16:30:06,753 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Date set to: 15-12-2024
+[INFO ] 28 Jul 2025 16:30:06,755 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Select Lead Owner from dropdown....
+[INFO ] 28 Jul 2025 16:30:06,962 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Opportunity is created !!
+[INFO ] 28 Jul 2025 16:30:07,503 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Opportunity Updated Successfully!
+[INFO ] 28 Jul 2025 16:30:10,280 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Logout Successfully!!!

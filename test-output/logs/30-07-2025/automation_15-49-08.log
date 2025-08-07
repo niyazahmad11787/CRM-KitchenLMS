@@ -1,0 +1,56 @@
+[INFO ] 30 Jul 2025 15:49:11,025 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 30 Jul 2025 15:49:11,063 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 30 Jul 2025 15:49:11,074 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 30 Jul 2025 15:49:12,220 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 30 Jul 2025 15:49:12,319 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 30 Jul 2025 15:49:12,402 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 30 Jul 2025 15:49:13,314 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Search Created Customer!!!
+[INFO ] 30 Jul 2025 15:49:17,594 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Site tab!!
+[INFO ] 30 Jul 2025 15:49:19,683 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Add Site Button !!
+[INFO ] 30 Jul 2025 15:49:21,794 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Select Type of project and type of site!!
+[INFO ] 30 Jul 2025 15:49:24,343 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Randomly selected option: New
+[INFO ] 30 Jul 2025 15:49:26,830 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Randomly selected option: Kothi
+[INFO ] 30 Jul 2025 15:49:26,835 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter Address Details !!!
+[INFO ] 30 Jul 2025 15:49:31,217 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter Other Details like Carpet Area !!!
+[INFO ] 30 Jul 2025 15:49:31,319 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter Tentative Possessions Date!!!
+[ERROR] 30 Jul 2025 15:49:31,320 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- The specified date is not in the future. Please provide a valid future date.
+[INFO ] 30 Jul 2025 15:49:31,320 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Specific Date: 28/12/2024
+[INFO ] 30 Jul 2025 15:49:31,431 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Specific date entered successfully!
+[INFO ] 30 Jul 2025 15:49:34,641 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Site created successfully! Redirected to: https://orders.hippobetabox.in/crm/customers/9c42659a-7fa1-4f82-9a5e-cb2c495177d2
+[INFO ] 30 Jul 2025 15:49:36,997 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on created site!!
+[INFO ] 30 Jul 2025 15:49:37,605 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Site code is : S/NOS1/234
+[INFO ] 30 Jul 2025 15:49:37,824 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Scope of work tab!!!
+[INFO ] 30 Jul 2025 15:49:38,246 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Modular Kitchen Checkbox!!
+[INFO ] 30 Jul 2025 15:49:38,398 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Checkbox for 'MODULAR KITCHEN' is not selected. Selecting it now.
+[INFO ] 30 Jul 2025 15:49:38,477 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Select Follow Up Date....
+[ERROR] 30 Jul 2025 15:49:38,631 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Date field already has a value: 01-08-2025. Updating to the specific date.
+[INFO ] 30 Jul 2025 15:49:38,709 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Date set to: 15-12-2024
+[INFO ] 30 Jul 2025 15:49:38,711 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Select Lead Owner from dropdown....
+[INFO ] 30 Jul 2025 15:49:38,855 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Opportunity is created !!
+[ERROR] 30 Jul 2025 15:49:39,360 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Failed to created Opportunity!
+[INFO ] 30 Jul 2025 15:49:42,607 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Logout Successfully!!!
+[INFO ] 30 Jul 2025 15:49:42,697 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 30 Jul 2025 15:49:42,786 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 30 Jul 2025 15:49:42,878 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 30 Jul 2025 15:49:59,822 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on update follow up button!!
+[INFO ] 30 Jul 2025 15:50:00,940 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Lead Status dropdown!!!
+[INFO ] 30 Jul 2025 15:50:03,052 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Boq Creation Option is selected
+[INFO ] 30 Jul 2025 15:50:08,414 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Logout Successfully!!!
+[INFO ] 30 Jul 2025 15:50:08,496 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 30 Jul 2025 15:50:08,562 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 30 Jul 2025 15:50:08,637 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 30 Jul 2025 15:50:11,851 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Searched Opportunity ID : S/NOS1/234/MODULAR KITCHEN/349
+[INFO ] 30 Jul 2025 15:50:26,404 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Logout Successfully!!!
+[INFO ] 30 Jul 2025 15:50:26,510 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 30 Jul 2025 15:50:26,605 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 30 Jul 2025 15:50:26,687 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 30 Jul 2025 15:50:30,281 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Searched Opportunity ID : S/NOS1/234/MODULAR KITCHEN/349
+[INFO ] 30 Jul 2025 15:50:32,393 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Approve Boq Discount Button!!
+[INFO ] 30 Jul 2025 15:50:32,448 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer Name: Bob Johnson
+[INFO ] 30 Jul 2025 15:50:32,496 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Project Type: MODULAR KITCHEN
+[INFO ] 30 Jul 2025 15:50:34,522 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Discount Value: 5
+[INFO ] 30 Jul 2025 15:50:34,572 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Gross Total: ₹16815.00
+[INFO ] 30 Jul 2025 15:50:36,692 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on view Pdf Button!!
+[INFO ] 30 Jul 2025 15:50:38,913 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on close pdf !!
+[INFO ] 30 Jul 2025 15:50:40,994 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Proceed to confirm button!!
+[INFO ] 30 Jul 2025 15:50:43,078 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Final Approval Button !!

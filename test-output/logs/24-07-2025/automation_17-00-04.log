@@ -1,0 +1,65 @@
+[INFO ] 24 Jul 2025 17:00:06,165 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Chrome launched successfully
+[INFO ] 24 Jul 2025 17:00:06,215 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Maximized browser
+[INFO ] 24 Jul 2025 17:00:06,227 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Deleted all cookies
+[INFO ] 24 Jul 2025 17:00:07,501 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- UserId is Entered!!
+[INFO ] 24 Jul 2025 17:00:07,593 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Password is Entered!!!
+[INFO ] 24 Jul 2025 17:00:07,672 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on Login Button!!
+[INFO ] 24 Jul 2025 17:00:07,912 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Customer Creation test Started !!!!
+[INFO ] 24 Jul 2025 17:00:08,187 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Customer Icon on HomePage..
+[INFO ] 24 Jul 2025 17:00:09,298 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Add Customer button..
+[INFO ] 24 Jul 2025 17:00:09,456 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Random Mobile Number generated :
+[INFO ] 24 Jul 2025 17:00:09,474 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Enter Mobile Number.....
+[INFO ] 24 Jul 2025 17:00:09,584 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Generate Otp button!!
+[INFO ] 24 Jul 2025 17:00:13,653 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Enter otp and click on Submit button!!
+[INFO ] 24 Jul 2025 17:00:16,317 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Select Contractor customer type and Architect Sub-customer type from dropdown!!!
+[INFO ] 24 Jul 2025 17:00:16,741 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Enter GST number!!
+[INFO ] 24 Jul 2025 17:00:17,705 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Business Name is correctly auto-populated and non-editable.
+[INFO ] 24 Jul 2025 17:00:18,802 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Business Address Line 1 is correctly auto-populated and editable.
+[INFO ] 24 Jul 2025 17:00:19,916 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Business Address Line 2 is correctly auto-populated and editable.
+[INFO ] 24 Jul 2025 17:00:21,436 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Form Redirected to step two: https://orders.hippobetabox.in/customer/add?step=2&mobile=8401225559
+[INFO ] 24 Jul 2025 17:00:21,455 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Enter First & Last Name!!
+[INFO ] 24 Jul 2025 17:00:22,062 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Entered alternate mobile number
+[INFO ] 24 Jul 2025 17:00:22,461 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Entered email Id!!
+[INFO ] 24 Jul 2025 17:00:26,812 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Calculated Age is ->
+[INFO ] 24 Jul 2025 17:00:26,980 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :-  is Selected!!
+[INFO ] 24 Jul 2025 17:00:27,149 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :-  is Selected!!
+[INFO ] 24 Jul 2025 17:00:28,057 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Selected income range: 10 - 50 Lakhs
+[INFO ] 24 Jul 2025 17:00:37,929 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on Capture photo button
+[INFO ] 24 Jul 2025 17:00:39,153 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on Submit button !!!
+[ERROR] 24 Jul 2025 17:00:49,575 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- 🚫 Exception occurred while submitting the customer form:
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for condition to not be valid: url to be "https://orders.hippobetabox.in/customer/add?step=2&mobile=8401225559". Current url: "https://orders.hippobetabox.in/customer/add?step=2&mobile=8401225559" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: C:\Users\AHMED~1.NIY\AppDat...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50025}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50025/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2277ae94d48f238789fa78c04bb9dc08
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.19.1.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.19.1.jar:?]
+	at com.qa.hippo.main.pages.customeCreationPages.CustomerDetailsStep2.finalSubmitFormDetails(CustomerDetailsStep2.java:279) ~[classes/:?]
+	at com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepTwo.verifyFinalSubmitButton(verifyCustomerDetailsFormStepTwo.java:118) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+[INFO ] 24 Jul 2025 17:00:51,360 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Logout Successfully!!!

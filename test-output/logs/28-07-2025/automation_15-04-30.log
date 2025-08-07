@@ -1,0 +1,13 @@
+[INFO ] 28 Jul 2025 15:04:33,719 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 28 Jul 2025 15:04:33,814 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 28 Jul 2025 15:04:33,840 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 28 Jul 2025 15:04:35,416 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 28 Jul 2025 15:04:35,644 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 28 Jul 2025 15:04:35,872 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 28 Jul 2025 15:04:35,901 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer Creation test Started !!!!
+[INFO ] 28 Jul 2025 15:04:36,547 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 28 Jul 2025 15:04:37,937 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Add Customer button..
+[INFO ] 28 Jul 2025 15:04:38,285 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Random Mobile Number generated : 7817453475
+[INFO ] 28 Jul 2025 15:04:38,352 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter Mobile Number.....
+[INFO ] 28 Jul 2025 15:04:38,625 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Generate Otp button!!
+[INFO ] 28 Jul 2025 15:04:44,264 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter otp and click on Submit button!!

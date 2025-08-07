@@ -1,0 +1,34 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CustomerCreationSuite" verbose="1" preserve-order="true">
+    <parameter name="Env" value="staging" />
+    <listeners>
+        <listener class-name="com.qa.hippo.main.utilities.listeners.Listeners" />
+    </listeners>
+    <test name="Lead Management Flow with no discount">
+        <!-- 👇 Local parameters override or supply only to this test -->
+        <parameter name="discountOption" value="NO"/>
+        <parameter name="discountValue" value="0"/>
+        <classes>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyCustomerSentApprovalWithNoDiscountFunctionality"></class>
+        </classes>
+    </test>
+
+    <test name="Lead Management Flow with discount" enabled="false">
+        <!-- 👇 This test gets YES + 5 -->
+        <parameter name="discountOption" value="YES"/>
+        <parameter name="discountValue" value="5"/>
+        <classes>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyApproveBoqDiscountFunctionality"/>
+        </classes>
+    </test>
+</suite>

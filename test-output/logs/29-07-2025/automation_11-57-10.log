@@ -1,0 +1,85 @@
+[INFO ] 29 Jul 2025 11:57:13,599 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Chrome launched successfully
+[INFO ] 29 Jul 2025 11:57:13,668 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Maximized browser
+[INFO ] 29 Jul 2025 11:57:13,699 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Deleted all cookies
+[INFO ] 29 Jul 2025 11:57:15,264 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- UserId is Entered!!
+[INFO ] 29 Jul 2025 11:57:15,466 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Password is Entered!!!
+[INFO ] 29 Jul 2025 11:57:15,675 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Jul 2025 11:57:16,279 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Customer Creation test Started !!!!
+[INFO ] 29 Jul 2025 11:57:16,497 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 29 Jul 2025 11:57:17,440 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Add Customer button..
+[INFO ] 29 Jul 2025 11:57:17,748 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Random Mobile Number generated : 6535962531
+[INFO ] 29 Jul 2025 11:57:17,801 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter Mobile Number.....
+[INFO ] 29 Jul 2025 11:57:18,078 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Generate Otp button!!
+[INFO ] 29 Jul 2025 11:57:23,536 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter otp and click on Submit button!!
+[INFO ] 29 Jul 2025 11:57:26,531 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Select Contractor customer type and Architect Sub-customer type from dropdown!!!
+[INFO ] 29 Jul 2025 11:57:27,186 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter GST number!!
+[INFO ] 29 Jul 2025 11:57:28,483 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Business Name is correctly auto-populated and non-editable.
+[INFO ] 29 Jul 2025 11:57:29,648 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Business Address Line 1 is correctly auto-populated and editable.
+[INFO ] 29 Jul 2025 11:57:30,780 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Business Address Line 2 is correctly auto-populated and editable.
+[INFO ] 29 Jul 2025 11:57:32,953 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Form Redirected to step two: https://orders.hippobetabox.in/customer/add?step=2&mobile=6535962531
+[INFO ] 29 Jul 2025 11:57:32,980 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter First & Last Name!!
+[INFO ] 29 Jul 2025 11:57:34,139 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Entered alternate mobile number
+[INFO ] 29 Jul 2025 11:57:34,766 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Entered email Id!!
+[INFO ] 29 Jul 2025 11:57:39,306 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Calculated Age is ->
+[INFO ] 29 Jul 2025 11:57:39,618 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :-  is Selected!!
+[INFO ] 29 Jul 2025 11:57:39,950 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :-  is Selected!!
+[INFO ] 29 Jul 2025 11:57:41,518 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Selected income range: 10 - 50 Lakhs
+[INFO ] 29 Jul 2025 11:57:52,376 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Capture photo button
+[INFO ] 29 Jul 2025 11:57:54,528 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Submit button !!!
+[INFO ] 29 Jul 2025 11:58:04,286 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- ✅ Customer created successfully and redirected to customer list page.
+[INFO ] 29 Jul 2025 11:58:05,128 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Logout Successfully!!!
+[INFO ] 29 Jul 2025 11:58:05,502 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- UserId is Entered!!
+[INFO ] 29 Jul 2025 11:58:05,761 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Password is Entered!!!
+[INFO ] 29 Jul 2025 11:58:07,959 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Jul 2025 11:58:10,232 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 29 Jul 2025 11:58:10,614 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on approval icon!!
+[INFO ] 29 Jul 2025 11:58:12,902 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Aadhaar Card
+[INFO ] 29 Jul 2025 11:58:15,202 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:58:17,403 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on PAN Card
+[INFO ] 29 Jul 2025 11:58:19,704 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:58:21,847 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Visiting Card
+[INFO ] 29 Jul 2025 11:58:24,169 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:58:26,467 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Site Photo
+[INFO ] 29 Jul 2025 11:58:28,721 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:58:30,863 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Customer Photo
+[INFO ] 29 Jul 2025 11:58:33,167 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:58:35,366 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Cancelled Cheque
+[INFO ] 29 Jul 2025 11:58:37,677 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:58:38,490 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Reviewer approved the profile!!
+[INFO ] 29 Jul 2025 11:58:40,791 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Ok button!!
+[INFO ] 29 Jul 2025 11:58:41,391 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Logout Successfully!!!
+[INFO ] 29 Jul 2025 11:58:41,726 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- UserId is Entered!!
+[INFO ] 29 Jul 2025 11:58:41,926 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Password is Entered!!!
+[INFO ] 29 Jul 2025 11:58:44,222 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Jul 2025 11:58:46,397 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 29 Jul 2025 11:58:46,877 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on approval icon!!
+[INFO ] 29 Jul 2025 11:58:49,139 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Aadhaar Card
+[INFO ] 29 Jul 2025 11:58:51,456 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:58:53,646 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on PAN Card
+[INFO ] 29 Jul 2025 11:58:55,947 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:58:58,120 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Visiting Card
+[INFO ] 29 Jul 2025 11:59:00,394 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:59:02,540 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Site Photo
+[INFO ] 29 Jul 2025 11:59:04,839 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:59:07,024 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Customer Photo
+[INFO ] 29 Jul 2025 11:59:09,359 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:59:11,503 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Cancelled Cheque
+[INFO ] 29 Jul 2025 11:59:13,813 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 11:59:14,729 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Reviewer approved the profile!!
+[INFO ] 29 Jul 2025 11:59:16,999 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Ok button!!
+[INFO ] 29 Jul 2025 11:59:17,590 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Logout Successfully!!!
+[INFO ] 29 Jul 2025 11:59:18,037 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- UserId is Entered!!
+[INFO ] 29 Jul 2025 11:59:18,296 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Password is Entered!!!
+[INFO ] 29 Jul 2025 11:59:18,516 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Jul 2025 11:59:20,553 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Search Created Customer!!!
+[INFO ] 29 Jul 2025 11:59:25,056 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Site tab!!
+[INFO ] 29 Jul 2025 11:59:27,175 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Add Site Button !!
+[INFO ] 29 Jul 2025 11:59:29,453 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Select Type of project and type of site!!
+[INFO ] 29 Jul 2025 11:59:31,157 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Randomly selected option: New
+[INFO ] 29 Jul 2025 11:59:31,707 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Randomly selected option: Villa
+[INFO ] 29 Jul 2025 11:59:31,713 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter Address Details !!!
+[INFO ] 29 Jul 2025 11:59:54,223 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter Other Details like Carpet Area !!!
+[INFO ] 29 Jul 2025 12:00:22,831 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter Tentative Possessions Date!!!
+[ERROR] 29 Jul 2025 12:00:22,831 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- The specified date is not in the future. Please provide a valid future date.
+[INFO ] 29 Jul 2025 12:00:22,839 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Specific Date: 28/12/2024
+[INFO ] 29 Jul 2025 12:00:23,185 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Specific date entered successfully!

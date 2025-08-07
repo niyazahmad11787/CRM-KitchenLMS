@@ -1,0 +1,100 @@
+[INFO ] 29 Jul 2025 10:48:51,732 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Chrome launched successfully
+[INFO ] 29 Jul 2025 10:48:51,811 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Maximized browser
+[INFO ] 29 Jul 2025 10:48:51,832 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Deleted all cookies
+[INFO ] 29 Jul 2025 10:48:55,192 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- UserId is Entered!!
+[INFO ] 29 Jul 2025 10:48:55,401 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Password is Entered!!!
+[INFO ] 29 Jul 2025 10:48:55,630 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Jul 2025 10:48:56,588 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Customer Creation test Started !!!!
+[INFO ] 29 Jul 2025 10:48:56,785 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 29 Jul 2025 10:48:58,026 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Add Customer button..
+[INFO ] 29 Jul 2025 10:48:58,363 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Random Mobile Number generated : 6736211468
+[INFO ] 29 Jul 2025 10:48:58,423 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter Mobile Number.....
+[INFO ] 29 Jul 2025 10:48:58,713 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Generate Otp button!!
+[INFO ] 29 Jul 2025 10:49:04,105 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter otp and click on Submit button!!
+[INFO ] 29 Jul 2025 10:49:07,247 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Select Contractor customer type and Architect Sub-customer type from dropdown!!!
+[INFO ] 29 Jul 2025 10:49:07,909 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter GST number!!
+[INFO ] 29 Jul 2025 10:49:09,211 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Business Name is correctly auto-populated and non-editable.
+[INFO ] 29 Jul 2025 10:49:10,341 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Business Address Line 1 is correctly auto-populated and editable.
+[INFO ] 29 Jul 2025 10:49:11,461 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Business Address Line 2 is correctly auto-populated and editable.
+[INFO ] 29 Jul 2025 10:49:13,510 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Form Redirected to step two: https://orders.hippobetabox.in/customer/add?step=2&mobile=6736211468
+[INFO ] 29 Jul 2025 10:49:13,551 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter First & Last Name!!
+[INFO ] 29 Jul 2025 10:49:14,741 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Entered alternate mobile number
+[INFO ] 29 Jul 2025 10:49:15,360 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Entered email Id!!
+[INFO ] 29 Jul 2025 10:49:19,818 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Calculated Age is ->
+[INFO ] 29 Jul 2025 10:49:20,137 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :-  is Selected!!
+[INFO ] 29 Jul 2025 10:49:20,436 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :-  is Selected!!
+[INFO ] 29 Jul 2025 10:49:21,879 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Selected income range: 10 - 50 Lakhs
+[INFO ] 29 Jul 2025 10:49:32,668 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Capture photo button
+[INFO ] 29 Jul 2025 10:49:34,986 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Submit button !!!
+[INFO ] 29 Jul 2025 10:49:44,627 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- ✅ Customer created successfully and redirected to customer list page.
+[INFO ] 29 Jul 2025 10:49:45,526 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Logout Successfully!!!
+[INFO ] 29 Jul 2025 10:49:45,877 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- UserId is Entered!!
+[INFO ] 29 Jul 2025 10:49:46,143 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Password is Entered!!!
+[INFO ] 29 Jul 2025 10:49:48,396 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Jul 2025 10:49:50,601 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 29 Jul 2025 10:49:50,993 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on approval icon!!
+[INFO ] 29 Jul 2025 10:49:53,198 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Aadhaar Card
+[INFO ] 29 Jul 2025 10:49:55,489 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:49:57,682 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on PAN Card
+[INFO ] 29 Jul 2025 10:49:59,957 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:50:02,161 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Visiting Card
+[INFO ] 29 Jul 2025 10:50:04,424 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:50:06,658 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Site Photo
+[INFO ] 29 Jul 2025 10:50:08,891 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:50:11,163 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Customer Photo
+[INFO ] 29 Jul 2025 10:50:13,388 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:50:15,602 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Cancelled Cheque
+[INFO ] 29 Jul 2025 10:50:17,876 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:50:18,769 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Reviewer approved the profile!!
+[INFO ] 29 Jul 2025 10:50:21,098 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Ok button!!
+[INFO ] 29 Jul 2025 10:50:21,765 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Logout Successfully!!!
+[INFO ] 29 Jul 2025 10:50:22,165 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- UserId is Entered!!
+[INFO ] 29 Jul 2025 10:50:22,371 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Password is Entered!!!
+[INFO ] 29 Jul 2025 10:50:24,649 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Jul 2025 10:50:26,846 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 29 Jul 2025 10:50:27,398 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on approval icon!!
+[INFO ] 29 Jul 2025 10:50:29,601 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Aadhaar Card
+[INFO ] 29 Jul 2025 10:50:31,873 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:50:34,078 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on PAN Card
+[INFO ] 29 Jul 2025 10:50:36,315 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:50:38,507 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Visiting Card
+[INFO ] 29 Jul 2025 10:50:40,742 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:50:42,988 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Site Photo
+[INFO ] 29 Jul 2025 10:50:45,265 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:50:47,487 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Customer Photo
+[INFO ] 29 Jul 2025 10:50:49,753 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:50:51,953 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- View button is enabled and Clicked on Cancelled Cheque
+[INFO ] 29 Jul 2025 10:50:54,221 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on close pdf icon.
+[INFO ] 29 Jul 2025 10:50:55,094 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Reviewer approved the profile!!
+[INFO ] 29 Jul 2025 10:50:57,354 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Ok button!!
+[INFO ] 29 Jul 2025 10:50:57,952 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Logout Successfully!!!
+[INFO ] 29 Jul 2025 10:50:58,360 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- UserId is Entered!!
+[INFO ] 29 Jul 2025 10:50:58,580 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Password is Entered!!!
+[INFO ] 29 Jul 2025 10:50:58,794 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Jul 2025 10:50:59,946 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Search Created Customer!!!
+[INFO ] 29 Jul 2025 10:51:04,463 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Site tab!!
+[INFO ] 29 Jul 2025 10:51:06,596 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Add Site Button !!
+[INFO ] 29 Jul 2025 10:51:06,958 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Select Type of project and type of site!!
+[ERROR] 29 Jul 2025 10:51:08,808 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Error selecting random option: element click intercepted: Element <li class="MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-1km1ehz" tabindex="-1" role="option" aria-selected="false" data-value="Repair-Maintenance">...</li> is not clickable at point (1247, 408). Other element would receive the click: <li class="MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-1km1ehz" tabindex="-1" role="option" aria-selected="false" data-value="Interior Fitout">...</li>
+  (Session info: chrome=138.0.7204.158)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3b371c825468ba7e52704ec522edc848, clickElement {id=f.CA0B0963DDF50BB86BE3BD2341D12094.d.7798120A97DBAF864032C0AB332E0354.e.552}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.158, chrome: {chromedriverVersion: 138.0.7204.168 (3e8d82e86e9..., userDataDir: C:\Users\AHMED~1.NIY\AppDat...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54165}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54165/devtoo..., se:cdpVersion: 138.0.7204.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3b371c825468ba7e52704ec522edc848)] -> xpath: //ul[@role='listbox']//li]
+Session ID: 3b371c825468ba7e52704ec522edc848
+[INFO ] 29 Jul 2025 10:51:10,042 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter Address Details !!!
+[INFO ] 29 Jul 2025 10:51:10,187 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter Other Details like Carpet Area !!!
+[INFO ] 29 Jul 2025 10:51:10,360 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Enter Tentative Possessions Date!!!
+[ERROR] 29 Jul 2025 10:51:10,362 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- The specified date is not in the future. Please provide a valid future date.
+[INFO ] 29 Jul 2025 10:51:10,364 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Specific Date: 28/12/2024
+[INFO ] 29 Jul 2025 10:51:11,916 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on created site!!
+[INFO ] 29 Jul 2025 10:51:12,547 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Site code is : null
+[INFO ] 29 Jul 2025 10:51:32,565 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Scope of work tab!!!
+[INFO ] 29 Jul 2025 10:52:12,636 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Click on Modular Kitchen Checkbox!!
+[INFO ] 29 Jul 2025 10:52:32,655 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Select Follow Up Date....
+[INFO ] 29 Jul 2025 10:52:32,697 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Date field is empty. Setting the specific date.
+[INFO ] 29 Jul 2025 10:52:32,764 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Date set to: 15-12-2024
+[INFO ] 29 Jul 2025 10:52:32,766 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Select Lead Owner from dropdown....
+[INFO ] 29 Jul 2025 10:52:34,063 com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality :- Opportunity is created !!

@@ -1,0 +1,8 @@
+[INFO ] 29 Jul 2025 12:59:52,894 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Chrome launched successfully
+[INFO ] 29 Jul 2025 12:59:52,986 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Maximized browser
+[INFO ] 29 Jul 2025 12:59:53,011 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Deleted all cookies
+[INFO ] 29 Jul 2025 12:59:57,633 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- UserId is Entered!!
+[INFO ] 29 Jul 2025 12:59:57,879 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Password is Entered!!!
+[INFO ] 29 Jul 2025 12:59:58,077 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Jul 2025 12:59:59,190 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Customer Creation test Started !!!!
+[INFO ] 29 Jul 2025 12:59:59,409 com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality :- Click on Customer Icon on HomePage..

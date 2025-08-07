@@ -1,0 +1,30 @@
+[INFO ] 29 Jul 2025 15:46:24,430 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 29 Jul 2025 15:46:24,477 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 29 Jul 2025 15:46:24,486 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 29 Jul 2025 15:46:33,289 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 29 Jul 2025 15:46:33,387 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 29 Jul 2025 15:46:33,490 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Jul 2025 15:46:33,503 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer Creation test Started !!!!
+[INFO ] 29 Jul 2025 15:46:34,144 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Customer Icon on HomePage..
+[INFO ] 29 Jul 2025 15:46:39,645 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Add Customer button..
+[INFO ] 29 Jul 2025 15:46:39,825 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Random Mobile Number generated: 8179854134
+[INFO ] 29 Jul 2025 15:46:39,857 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter Mobile Number.....
+[INFO ] 29 Jul 2025 15:46:39,974 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Generate Otp button!!
+[INFO ] 29 Jul 2025 15:46:44,124 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter otp and click on Submit button!!
+[INFO ] 29 Jul 2025 15:46:47,110 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Select Contractor customer type and Architect Sub-customer type from dropdown!!!
+[INFO ] 29 Jul 2025 15:46:48,038 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter GST number!!
+[INFO ] 29 Jul 2025 15:46:48,988 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Business Name is correctly auto-populated and non-editable.
+[INFO ] 29 Jul 2025 15:46:50,051 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Business Address Line 1 is correctly auto-populated and editable.
+[INFO ] 29 Jul 2025 15:46:51,119 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Business Address Line 2 is correctly auto-populated and editable.
+[INFO ] 29 Jul 2025 15:46:52,460 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Form Redirected to step two: https://orders.hippobetabox.in/customer/add?step=2&mobile=8179854134
+[INFO ] 29 Jul 2025 15:46:52,466 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter First & Last Name!!
+[INFO ] 29 Jul 2025 15:46:53,010 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Entered alternate mobile number
+[INFO ] 29 Jul 2025 15:46:53,291 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Entered email Id!!
+[INFO ] 29 Jul 2025 15:46:57,489 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Calculated Age is ->
+[INFO ] 29 Jul 2025 15:46:57,598 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :-  is Selected!!
+[INFO ] 29 Jul 2025 15:46:57,701 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :-  is Selected!!
+[INFO ] 29 Jul 2025 15:46:58,944 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Selected income range: 10 - 50 Lakhs
+[INFO ] 29 Jul 2025 15:47:08,680 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Capture photo button
+[INFO ] 29 Jul 2025 15:47:09,850 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Submit button !!!
+[INFO ] 29 Jul 2025 15:47:19,242 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- ✅ Customer created successfully and redirected to customer list page.
+[INFO ] 29 Jul 2025 15:47:22,718 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Logout Successfully!!!

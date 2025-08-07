@@ -1,0 +1,49 @@
+[INFO ] 25 Jul 2025 12:29:07,255 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Chrome launched successfully
+[INFO ] 25 Jul 2025 12:29:07,357 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Maximized browser
+[INFO ] 25 Jul 2025 12:29:07,382 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Deleted all cookies
+[INFO ] 25 Jul 2025 12:29:08,970 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- UserId is Entered!!
+[INFO ] 25 Jul 2025 12:29:09,190 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Password is Entered!!!
+[INFO ] 25 Jul 2025 12:29:09,403 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on Login Button!!
+[INFO ] 25 Jul 2025 12:29:09,937 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Customer Creation test Started !!!!
+[INFO ] 25 Jul 2025 12:29:10,845 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Customer Icon on HomePage..
+[INFO ] 25 Jul 2025 12:29:12,582 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Add Customer button..
+[INFO ] 25 Jul 2025 12:29:12,915 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Random Mobile Number generated :
+[INFO ] 25 Jul 2025 12:29:12,982 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Enter Mobile Number.....
+[INFO ] 25 Jul 2025 12:29:13,226 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Generate Otp button!!
+[INFO ] 25 Jul 2025 12:29:18,621 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Enter otp and click on Submit button!!
+[INFO ] 25 Jul 2025 12:29:21,496 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Select Contractor customer type and Architect Sub-customer type from dropdown!!!
+[INFO ] 25 Jul 2025 12:29:22,222 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Enter GST number!!
+[INFO ] 25 Jul 2025 12:29:23,532 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Business Name is correctly auto-populated and non-editable.
+[INFO ] 25 Jul 2025 12:29:24,615 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Business Address Line 1 is correctly auto-populated and editable.
+[INFO ] 25 Jul 2025 12:29:25,698 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Business Address Line 2 is correctly auto-populated and editable.
+[INFO ] 25 Jul 2025 12:29:27,617 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Form Redirected to step two: https://orders.hippobetabox.in/customer/add?step=2&mobile=6780436396
+[INFO ] 25 Jul 2025 12:29:27,670 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Enter First & Last Name!!
+[INFO ] 25 Jul 2025 12:29:28,744 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Entered alternate mobile number
+[INFO ] 25 Jul 2025 12:29:29,284 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Entered email Id!!
+[INFO ] 25 Jul 2025 12:29:33,720 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Calculated Age is ->
+[INFO ] 25 Jul 2025 12:29:33,972 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :-  is Selected!!
+[INFO ] 25 Jul 2025 12:29:34,249 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :-  is Selected!!
+[INFO ] 25 Jul 2025 12:29:35,713 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Selected income range: 10 - 50 Lakhs
+[INFO ] 25 Jul 2025 12:29:46,349 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on Capture photo button
+[INFO ] 25 Jul 2025 12:29:48,569 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on Submit button !!!
+[INFO ] 25 Jul 2025 12:29:58,166 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- ✅ Customer created successfully and redirected to customer list page.
+[INFO ] 25 Jul 2025 12:29:58,959 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Logout Successfully!!!
+[INFO ] 25 Jul 2025 12:29:59,312 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- UserId is Entered!!
+[INFO ] 25 Jul 2025 12:29:59,498 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Password is Entered!!!
+[INFO ] 25 Jul 2025 12:30:01,628 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on Login Button!!
+[INFO ] 25 Jul 2025 12:30:03,789 com.qa.hippo.main.pages.customeCreationPages.MobileVerificationPage :- Click on Customer Icon on HomePage..
+[INFO ] 25 Jul 2025 12:30:04,231 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on approval icon!!
+[INFO ] 25 Jul 2025 12:30:06,442 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- View button is enabled and Clicked on Aadhaar Card
+[INFO ] 25 Jul 2025 12:30:08,647 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 12:30:10,792 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- View button is enabled and Clicked on PAN Card
+[INFO ] 25 Jul 2025 12:30:12,981 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 12:30:15,181 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- View button is enabled and Clicked on Visiting Card
+[INFO ] 25 Jul 2025 12:30:17,415 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 12:30:19,612 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- View button is enabled and Clicked on Site Photo
+[INFO ] 25 Jul 2025 12:30:21,855 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 12:30:24,026 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- View button is enabled and Clicked on Customer Photo
+[INFO ] 25 Jul 2025 12:30:26,221 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 12:30:28,354 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- View button is enabled and Clicked on Cancelled Cheque
+[INFO ] 25 Jul 2025 12:30:30,562 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on close pdf icon.
+[INFO ] 25 Jul 2025 12:30:31,433 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Reviewer approved the profile!!
+[INFO ] 25 Jul 2025 12:30:33,691 com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality :- Clicked on Ok button!!

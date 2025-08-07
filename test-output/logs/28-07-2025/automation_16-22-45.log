@@ -1,0 +1,11 @@
+[INFO ] 28 Jul 2025 16:22:48,635 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Chrome launched successfully
+[INFO ] 28 Jul 2025 16:22:48,675 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Maximized browser
+[INFO ] 28 Jul 2025 16:22:48,686 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Deleted all cookies
+[INFO ] 28 Jul 2025 16:22:50,014 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- UserId is Entered!!
+[INFO ] 28 Jul 2025 16:22:50,179 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Password is Entered!!!
+[INFO ] 28 Jul 2025 16:22:50,289 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Clicked on Login Button!!
+[INFO ] 28 Jul 2025 16:22:50,549 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Customer Creation test Started !!!!
+[INFO ] 28 Jul 2025 16:23:20,664 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Random Mobile Number generated : 8572050506
+[INFO ] 28 Jul 2025 16:23:20,674 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Click on Generate Otp button!!
+[INFO ] 28 Jul 2025 16:23:20,742 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Enter First & Last Name!!
+[ERROR] 28 Jul 2025 16:23:20,820 com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality :- Unable to select income range: 10 - 50 Lakhs

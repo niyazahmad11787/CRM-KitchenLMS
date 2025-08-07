@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+    <suite name="MainAutomationSuite" verbose="1" preserve-order="true">
+
+        <!-- Global Parameter for Environment -->
+        <parameter name="Env" value="staging"/>
+
+        <!-- Attach Listeners (e.g., Extent Report, Retry, Screenshots) -->
+        <listeners>
+            <listener class-name="com.qa.hippo.main.utilities.listeners.Listeners" />
+        </listeners>
+
+        <test name="verify MO Login Functionality">
+            <classes>
+                <class name="com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality"></class>
+            </classes>
+        </test>
+        <test name="verify Mobile number verification Functionality" >
+            <classes>
+                <class name="com.qa.hippo.maintests.customercreation.verifyMobileNumberVerificationFunctionality"></class>
+            </classes>
+        </test>
+
+        <test name="verify customer creation form Functionality">
+            <classes>
+                <class name="com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne"></class>
+                <class name="com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepTwo"></class>
+            </classes>
+        </test>
+
+        <test name="verify Reviewer Approval Functionality">
+            <classes>
+                <class name="com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality"></class>
+            </classes>
+        </test>
+
+        <test name="verify Store Head Approval Functionality" >
+            <classes>
+                <class name="com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality"></class>
+            </classes>
+        </test>
+
+        <test name="verify Site Creation Functionality">
+            <classes>
+                <class name="com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality"></class>
+            </classes>
+        </test>
+
+        <test name="verify Scope Of Work Creation Functionality">
+            <classes>
+                <class name="com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality"></class>
+            </classes>
+        </test>
+
+    <test name="verify Opportunity Approval Functionality">
+        <classes>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality"></class>
+        </classes>
+    </test>
+    <test name="verify Create BOQ Functionality">
+        <classes>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality"></class>
+        </classes>
+    </test>
+
+
+</suite>

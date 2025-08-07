@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CustomerCreationSuite" verbose="1" preserve-order="true">
+    <parameter name="Env" value="staging" />
+    <listeners>
+        <listener class-name="com.qa.hippo.main.utilities.listeners.Listeners" />
+    </listeners>
+
+    <test name="Customer Creation Flow">
+        <classes>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality"/>
+            <class name="com.qa.hippo.maintests.customercreation.verifyMobileNumberVerificationFunctionality"/>
+            <class name="com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepOne"/>
+            <class name="com.qa.hippo.maintests.customercreation.verifyCustomerDetailsFormStepTwo"/>
+            <class name="com.qa.hippo.maintests.customercreation.verifyReviewerApprovalFunctionality"/>
+            <class name="com.qa.hippo.maintests.customercreation.verifyStoreHeadApprovalFunctionality"/>
+        </classes>
+    </test>
+</suite>
