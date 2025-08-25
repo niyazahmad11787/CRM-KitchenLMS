@@ -30,15 +30,6 @@ public class MoLogin {
     @FindBy(xpath = "//button[text()='Login']")
     WebElement LoginButton;
 
-    @FindBy(xpath = "//input[@placeholder='Email']")
-    WebElement EmailFieldMedusa;
-
-    @FindBy(xpath = "//input[@placeholder='Password']")
-    WebElement PasswordFieldMedusa;
-
-    @FindBy(xpath = "//button[@type='submit']")
-    WebElement ContinueButtonMedusa;
-
 
     /**
      * Enters user id

@@ -76,8 +76,7 @@ public class CreateBoqPage {
         }
     }
     private static final String[] SERVICE_NAMES = {
-            "Modular Kitchen Carcass", "Modular Kitchen Shutter", "Top Ply With Front Edge Band", "Wall Cabinet Filler 100X700(Hdhmr)", "Top Ply With Front Edge Band",
-            "Shelf Base Back(Hdhmr)",
+            "Lift UP", "Thick Door", "Quadro P2O",
     };
     private static List<String> selectedServices = new ArrayList<>();
     public static void selectRandomServices(int count) {

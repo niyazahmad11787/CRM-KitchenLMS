@@ -1,0 +1,5 @@
+[INFO ] 20 Aug 2025 11:31:43,496 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 20 Aug 2025 11:31:43,591 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 20 Aug 2025 11:31:43,623 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 20 Aug 2025 11:31:44,512 com.qa.hippo.main.pages.MoLogin :- MoLoginPage initialized successfully.
+[INFO ] 20 Aug 2025 11:32:04,640 com.qa.hippo.main.pages.MoLogin :- MoLoginPage initialized successfully.

@@ -154,7 +154,6 @@ public class CreateSitePage {
     }
     public boolean ToVerifyAddressFields(){
         try {
-            UtilClass.sleep(2000);
             pinCode.sendKeys(RandomAddressGenerator.generateZipCode());
             pinCode.sendKeys(Keys.ENTER);
             UtilClass.sleep(2000);
@@ -167,6 +166,7 @@ public class CreateSitePage {
     }
     public boolean ToVerifyOtherDetailsFields(){
         try {
+            UtilClass.sleep(2000);
             waitForElementPresent(carpetArea,2000);
             carpetArea.sendKeys("500.22");
             return true;
@@ -220,6 +220,7 @@ public class CreateSitePage {
             String formattedDate = specificDate.format(DateTimeFormatter.ofPattern("dd/MM/yyyy"));
 
             HTPLLogger.info("Specific Date: " + formattedDate);
+            UtilClass.sleep(2000);
             dateInput.sendKeys(formattedDate);
 
             HTPLLogger.info("Specific date entered successfully!");

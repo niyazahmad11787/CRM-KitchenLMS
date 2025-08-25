@@ -29,6 +29,10 @@ public class verifyOpportunityApprovalFunctionality extends BaseClass {
 
         opportunityApprovalPage.clickOnCustomerButton();
         opportunityApprovalPage.clickOnCreateLeadButton();
+        opportunityApprovalPage.selectBudgetRange();
+        opportunityApprovalPage.selectHouseType();
+        opportunityApprovalPage.selectBHKConfig();
+        opportunityApprovalPage.selectDetailedProjectScope();
         opportunityApprovalPage.checkLeadCreationFunctionality();
     }
 

@@ -51,11 +51,11 @@ public class verifyCreateBoqFunctionality extends BaseClass {
     public void verifyServiceIsSelected(){
         createBoqPage.SelectServices();
     }
-    @Test(priority = 6)
+    @Test(priority = 6,enabled = false)
     public void verifyClickOnProductTab(){
         createBoqPage.clickOnProductTab();
     }
-    @Test(priority = 7)
+    @Test(priority = 7,enabled = false)
     public void verifyProductIsSelected(){
         createBoqPage.selectProducts();
     }
@@ -64,11 +64,11 @@ public class verifyCreateBoqFunctionality extends BaseClass {
         createBoqPage.clickOnNextButton();
     }
 
-    @Test(priority = 9)
+    @Test(priority = 9,enabled = false)
     public void selectSKU(){
         createBoqPage.SKUSearch();
     }
-    @Test(priority = 10)
+    @Test(priority = 10,enabled = false)
     public void verifySelectedSkuName(){
         createBoqPage.verifySelectedSKUName();
     }

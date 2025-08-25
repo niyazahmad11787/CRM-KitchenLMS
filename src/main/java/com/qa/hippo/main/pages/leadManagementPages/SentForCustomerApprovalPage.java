@@ -44,7 +44,7 @@ public class SentForCustomerApprovalPage {
                 HTPLLogger.warn(sentForCustomerApprovalButton.getText() + " is enabled. Skipping approval flow.");
             }
         } catch (Exception e) {
-            HTPLLogger.error("Error in checkSentForCustomerApprovalButton: " + e.getMessage(), e);
+            HTPLLogger.error("Error in checkSentForCustomerApprovalButton: " + e.getMessage());
             throw new RuntimeException("Failed to check customer approval button", e);
         }
     }
@@ -59,7 +59,7 @@ public class SentForCustomerApprovalPage {
             HTPLLogger.info("Fetched message ID: " + messageID);
             sendCustomerApprovalViaWhatsApp();
         } catch (Exception e) {
-            HTPLLogger.error("Error while fetching message ID: " + e.getMessage(), e);
+            HTPLLogger.error("Error while fetching message ID: " + e.getMessage());
             throw new RuntimeException("Failed to fetch message ID", e);
         }
     }
@@ -80,7 +80,7 @@ public class SentForCustomerApprovalPage {
                 HTPLLogger.warn("Missing message ID or mobile number. Skipping WhatsApp approval.");
             }
         } catch (Exception e) {
-            HTPLLogger.error("Error while sending WhatsApp approval: " + e.getMessage(), e);
+            HTPLLogger.error("Error while sending WhatsApp approval: " + e.getMessage());
             throw new RuntimeException("Failed to send WhatsApp approval", e);
         }
     }
@@ -95,7 +95,7 @@ public class SentForCustomerApprovalPage {
             }
 
         } catch (Exception e) {
-            HTPLLogger.error("Error in verifyCustomerApprovalIsDone: " + e.getMessage(), e);
+            HTPLLogger.error("Error in verifyCustomerApprovalIsDone: " + e.getMessage());
             throw new RuntimeException("Failed to check create order button", e);
         }
     }
@@ -113,7 +113,7 @@ public class SentForCustomerApprovalPage {
             }
 
         } catch (Exception e) {
-            HTPLLogger.error("Error in createdOrder: " + e.getMessage(), e);
+            HTPLLogger.error("Error in createdOrder: " + e.getMessage());
             throw new RuntimeException("Failed to create order", e);
         }
     }
@@ -127,7 +127,7 @@ public class SentForCustomerApprovalPage {
                 HTPLLogger.warn(pendingForPaymentButton.getText() + " is disabled. Skipping approval flow.");
             }
         } catch (RuntimeException e) {
-            HTPLLogger.error("Error in checkPaymentPendingButton: " + e.getMessage(), e);
+            HTPLLogger.error("Error in checkPaymentPendingButton: " + e.getMessage());
             throw new RuntimeException("Failed to checkPaymentPendingButton", e);
         }
     }

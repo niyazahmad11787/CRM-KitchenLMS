@@ -7,6 +7,7 @@ import com.qa.hippo.main.utilities.UtilClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.devtools.v85.webauthn.model.AuthenticatorId;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -106,27 +107,114 @@ public class OpportunityApprovalPage {
         UtilClass.sleep(2000);
         waitForElementAndClick(createLeadButton,2000);
     }
+
+    public void selectBudgetRange(){
+        try {
+           selectRadioButton("2-3 Lacs");
+
+        } catch (RuntimeException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    public void selectHouseType(){
+        try {
+            selectRadioButton("Villa");
+        }catch (RuntimeException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    public void selectBHKConfig(){
+        try {
+
+            selectRadioButton("1 BHK");
+
+        } catch (RuntimeException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    public void selectDetailedProjectScope(){
+        try {
+            selectFurnishingAndDecor();
+            selectScopeOfDesign();
+            selectFurniture();
+            selectServices();
+            selectModular();
+
+        } catch (RuntimeException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    public void selectFurnishingAndDecor(){
+        selectCheckBox("Wall treatment");
+    }
+    public void selectScopeOfDesign(){
+        selectCheckBox("Living");
+    }
+    public void selectFurniture(){
+        selectCheckBox("Dining Sets");
+    }
+    public void selectServices(){
+        selectCheckBox("False Ceiling");
+    }
+    public void selectModular(){
+        selectCheckBox("TV Unit");
+    }
+
+    public void selectCheckBox(String value){
+        try {
+            WebElement element=driver.findElement(By.xpath("//input[@type='checkbox' and @value='"+value+"']"));
+            if (!element.isSelected()){
+                UtilClass.sleep(2000);
+                element.click();
+            }
+        } catch (RuntimeException e) {
+            throw new RuntimeException(e);
+        }
+    }
+    public void selectRadioButton(String value){
+        try {
+            WebElement Option= driver.findElement(By.xpath("//input[@type='radio' and @value='"+value+"']"));
+            if (!Option.isSelected()){
+                UtilClass.sleep(2000);
+                Option.click();
+            }else {
+                HTPLLogger.error("Unable to select radio button!!!");
+            }
+
+        } catch (RuntimeException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
     public void checkLeadCreationFunctionality(){
-        waitForElementAndClick(interiorDesignerField,2000);
-        selectIDOption("Interior Designer");
-        waitForElementAndClick(projectManagerField,2000);
-        UtilClass.sleep(2000);
-        selectIDOption("Project Manager");
-        waitForElementAndClick(brandField,2000);
-        selectIDOption(selectBrandName());
-        approxQuantity.sendKeys(generateRandomPieces());
-        approxValue.sendKeys(generateRandomApproxValue());
         String VisitDate = generateStoreVisitDate();
         String followUp_Date = generateFollowUpDate(VisitDate);
         String expClosure_Date = generateExpClosureDate(followUp_Date);
         setExpClosureDate(expClosure_Date);
         setFollowUpDate(followUp_Date);
-        setStoreVisitDate(VisitDate);
+//        setStoreVisitDate(VisitDate);
+        UtilClass.sleep(1000);
+        approxValue.sendKeys(generateRandomApproxValue());
+        UtilClass.sleep(1000);
         waitForElementAndClick(conversionPotentialField,2000);
         UtilClass.sleep(2000);
         selectIDOption(selectConversionPotential());
+        UtilClass.sleep(1000);
+        approxQuantity.sendKeys(generateRandomPieces());
+        waitForElementAndClick(interiorDesignerField,2000);
+        selectIDOption("Interior Designer");
+        waitForElementAndClick(projectManagerField,2000);
         UtilClass.sleep(2000);
-        remarks.sendKeys("Created Lead by automation");
+        selectIDOption("Project Manager");
+//        waitForElementAndClick(brandField,2000);
+//        selectIDOption(selectBrandName());
+//
+//        UtilClass.sleep(2000);
+//        remarks.sendKeys("Created Lead by automation");
         waitForElementAndClick(submitButton,200);
     }
     public static LocalDate generateRandomFutureDate() {

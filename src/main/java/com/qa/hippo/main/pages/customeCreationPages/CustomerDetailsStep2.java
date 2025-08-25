@@ -286,7 +286,7 @@ public class CustomerDetailsStep2 {
             }
 
         } catch (Exception e) {
-            HTPLLogger.error("🚫 Exception occurred while submitting the customer form: ", e);
+            HTPLLogger.error("🚫 Exception occurred while submitting the customer form: ");
             throw new RuntimeException(e);
         }
     }
