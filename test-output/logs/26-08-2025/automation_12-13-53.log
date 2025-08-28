@@ -1,0 +1,66 @@
+[INFO ] 26 Aug 2025 12:13:55,919 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 26 Aug 2025 12:13:55,960 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 26 Aug 2025 12:13:55,969 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 26 Aug 2025 12:13:56,972 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 26 Aug 2025 12:13:57,058 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 26 Aug 2025 12:13:57,173 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 26 Aug 2025 12:13:58,121 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Search Created Customer!!!
+[INFO ] 26 Aug 2025 12:14:02,400 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Site tab!!
+[INFO ] 26 Aug 2025 12:14:04,501 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Add Site Button !!
+[INFO ] 26 Aug 2025 12:14:06,613 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Select Type of project and type of site!!
+[INFO ] 26 Aug 2025 12:14:09,152 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Randomly selected option: Repair-Maintenance
+[INFO ] 26 Aug 2025 12:14:11,618 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Randomly selected option: G+4
+[INFO ] 26 Aug 2025 12:14:11,618 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter Address Details !!!
+[INFO ] 26 Aug 2025 12:14:14,066 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter Other Details like Carpet Area !!!
+[INFO ] 26 Aug 2025 12:14:16,194 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter Tentative Possessions Date!!!
+[ERROR] 26 Aug 2025 12:14:16,194 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- The specified date is not in the future. Please provide a valid future date.
+[INFO ] 26 Aug 2025 12:14:16,196 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Specific Date: 28/12/2024
+[INFO ] 26 Aug 2025 12:14:18,364 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Specific date entered successfully!
+[INFO ] 26 Aug 2025 12:14:21,564 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Site created successfully! Redirected to: https://orders.hippobetabox.in/crm/customers/ec11fa00-ccb7-4676-8457-29b7564346bb
+[INFO ] 26 Aug 2025 12:14:24,014 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on created site!!
+[INFO ] 26 Aug 2025 12:14:24,857 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Site code is : S/NOS1/334
+[INFO ] 26 Aug 2025 12:14:25,123 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Scope of work tab!!!
+[INFO ] 26 Aug 2025 12:14:25,735 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Checkbox for  is not selected. Selecting it now.
+[INFO ] 26 Aug 2025 12:14:25,804 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- WardRobe checkbox is selected!!
+[INFO ] 26 Aug 2025 12:14:25,804 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Select Follow Up Date....
+[ERROR] 26 Aug 2025 12:14:25,983 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Date field already has a value: 28-08-2025. Updating to the specific date.
+[INFO ] 26 Aug 2025 12:14:26,016 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Date set to: 15-12-2024
+[INFO ] 26 Aug 2025 12:14:26,156 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Lead Owner Selected from dropdown....
+[INFO ] 26 Aug 2025 12:14:26,165 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Opportunity is created !!
+[INFO ] 26 Aug 2025 12:14:26,668 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Opportunity Updated Successfully!
+[INFO ] 26 Aug 2025 12:14:32,071 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Logout Successfully!!!
+[INFO ] 26 Aug 2025 12:14:32,186 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 26 Aug 2025 12:14:32,252 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 26 Aug 2025 12:14:32,357 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 26 Aug 2025 12:15:07,178 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on update follow up button!!
+[INFO ] 26 Aug 2025 12:15:08,403 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Lead Status dropdown!!!
+[INFO ] 26 Aug 2025 12:15:10,575 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Boq Creation Option is selected
+[INFO ] 26 Aug 2025 12:15:16,078 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Logout Successfully!!!
+[INFO ] 26 Aug 2025 12:15:16,211 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 26 Aug 2025 12:15:16,352 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 26 Aug 2025 12:15:16,436 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 26 Aug 2025 12:15:19,671 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Searched Opportunity ID : 445
+[INFO ] 26 Aug 2025 12:15:30,076 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Logout Successfully!!!
+[INFO ] 26 Aug 2025 12:15:30,206 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 26 Aug 2025 12:15:30,301 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 26 Aug 2025 12:15:30,453 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 26 Aug 2025 12:15:33,677 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Searched Opportunity ID : 445
+[INFO ] 26 Aug 2025 12:15:35,803 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Approve Boq Discount Button!!
+[INFO ] 26 Aug 2025 12:15:35,867 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer Name: Ian Martinez
+[INFO ] 26 Aug 2025 12:15:35,941 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Project Type: MODULAR KITCHEN
+[INFO ] 26 Aug 2025 12:15:37,980 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Discount % is : 5
+[INFO ] 26 Aug 2025 12:15:38,062 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Gross Total: ₹14956.80
+[INFO ] 26 Aug 2025 12:15:40,260 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on view Pdf Button!!
+[INFO ] 26 Aug 2025 12:15:42,496 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on close pdf !!
+[INFO ] 26 Aug 2025 12:15:44,612 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Proceed to confirm button!!
+[INFO ] 26 Aug 2025 12:15:48,700 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Final Approval Button !!
+[ERROR] 26 Aug 2025 12:16:13,325 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Error in checkSentForCustomerApprovalButton: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='button'][text()='Sent for Customer approval']"}
+  (Session info: chrome=139.0.7258.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4d8a336394b0887f81e84fc3e30ce307, findElement {using=xpath, value=//button[@type='button'][text()='Sent for Customer approval']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.138, chrome: {chromedriverVersion: 139.0.7258.138 (884e54ea8d4..., userDataDir: C:\Users\AHMED~1.NIY\AppDat...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58581}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58581/devtoo..., se:cdpVersion: 139.0.7258.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4d8a336394b0887f81e84fc3e30ce307
+[INFO ] 26 Aug 2025 12:16:18,495 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Searched Opportunity ID : 445

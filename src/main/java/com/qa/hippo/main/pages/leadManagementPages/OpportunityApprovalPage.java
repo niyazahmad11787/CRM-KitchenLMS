@@ -108,6 +108,7 @@ public class OpportunityApprovalPage {
         waitForElementAndClick(createLeadButton,2000);
     }
 
+
     public void selectBudgetRange(){
         try {
            selectRadioButton("2-3 Lacs");

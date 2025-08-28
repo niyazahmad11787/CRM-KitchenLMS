@@ -12,6 +12,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
 
 import java.time.Duration;
 import java.time.LocalDate;
@@ -118,60 +119,61 @@ public class CreateSitePage {
 
     }
 
-    public boolean AddPersonButton() {
+    public void AddPersonButton() {
         try {
             UtilClass.sleep(2000);
             personAddButton.click();
-            return true;
+
         } catch (Exception e) {
-            return false;
+            Assert.fail("Failure in test method AddPersonButton",e);
+
         }
 
     }
-    public boolean ToVerifyTypeOfProjectDropdown(){
+    public void ToVerifyTypeOfProjectDropdown(){
 
         try{
             waitForElementPresent(typeOfProject,2000);
             typeOfProject.click();
             UtilClass.sleep(2000);
             selectDropDownOption();
-            return true;
         } catch (Exception e) {
-            return false;
+            Assert.fail("Failure in test method ToVerifyTypeOfProjectDropdown",e);
+
         }
     }
-    public boolean ToverifyTypeOfSiteDropdown(){
+    public void ToverifyTypeOfSiteDropdown(){
         try {
 
             waitForElementAndClick(typeOfSite,2000);
             UtilClass.sleep(2000);
             selectDropDownOption();
-            return true;
 
         } catch (Exception e) {
-            return false;
+            Assert.fail("Failure in test method ToverifyTypeOfSiteDropdownss",e);
+
         }
     }
-    public boolean ToVerifyAddressFields(){
+    public void ToVerifyAddressFields(){
         try {
             pinCode.sendKeys(RandomAddressGenerator.generateZipCode());
             pinCode.sendKeys(Keys.ENTER);
             UtilClass.sleep(2000);
             societyName.sendKeys(RandomAddressGenerator.generateBusinessAddressLine());
-            return true;
         } catch (Exception e) {
-            return false;
+            Assert.fail("Failure in test method ToVerifyAddressFields",e);
+
         }
 
     }
-    public boolean ToVerifyOtherDetailsFields(){
+    public void ToVerifyOtherDetailsFields(){
         try {
             UtilClass.sleep(2000);
-            waitForElementPresent(carpetArea,2000);
             carpetArea.sendKeys("500.22");
-            return true;
+
         } catch (Exception e) {
-            return false;
+            Assert.fail("Failure in test method ToVerifyOtherDetailsFields ",e);
+
         }
     }
     /**
@@ -179,7 +181,7 @@ public class CreateSitePage {
      */
 
 
-    public boolean ToVerifySiteCreated(){
+    public void ToVerifySiteCreated(){
         try {
             String currentUrl = driver.getCurrentUrl();
             UtilClass.sleep(2000);
@@ -194,9 +196,10 @@ public class CreateSitePage {
             } else {
                 HTPLLogger.error("Site creation failed ! No URL change detected.");
             }
-            return true;
+
         } catch (Exception e) {
-            return false;
+            Assert.fail("Failure in test method ToVerifySiteCreated",e);
+
         }
     }
 

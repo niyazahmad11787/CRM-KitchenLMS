@@ -1,0 +1,13 @@
+[INFO ] 26 Aug 2025 10:18:54,299 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 26 Aug 2025 10:18:54,361 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 26 Aug 2025 10:18:54,386 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 26 Aug 2025 10:18:55,836 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 26 Aug 2025 10:18:56,056 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 26 Aug 2025 10:18:56,223 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 26 Aug 2025 10:18:57,485 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Search Created Customer!!!
+[INFO ] 26 Aug 2025 10:19:02,176 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Site tab!!
+[INFO ] 26 Aug 2025 10:19:04,381 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Add Site Button !!
+[INFO ] 26 Aug 2025 10:19:06,556 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Select Type of project and type of site!!
+[INFO ] 26 Aug 2025 10:19:09,322 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Randomly selected option: Repair-Maintenance
+[INFO ] 26 Aug 2025 10:19:11,859 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Randomly selected option: Villa
+[INFO ] 26 Aug 2025 10:19:11,873 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter Address Details !!!

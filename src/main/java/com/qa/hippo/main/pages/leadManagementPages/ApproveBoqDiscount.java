@@ -139,6 +139,7 @@ public class ApproveBoqDiscount{
             if (finalApproveButton.isEnabled()){
                 UtilClass.sleep(2000);
                 finalApproveButton.click();
+                UtilClass.sleep(4000);
                 HTPLLogger.info("Clicked on Final Approval Button !!");
             }else {
                 HTPLLogger.error("Unable to click on final approval button!!");

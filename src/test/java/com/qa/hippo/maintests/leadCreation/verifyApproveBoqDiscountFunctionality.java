@@ -7,6 +7,8 @@ import com.qa.hippo.main.pages.leadManagementPages.CreateBoqPage;
 import com.qa.hippo.main.pages.leadManagementPages.CreateSitePage;
 import com.qa.hippo.main.pages.leadManagementPages.OpportunityApprovalPage;
 import com.qa.hippo.main.utilities.ConfigLoader;
+import com.qa.hippo.main.utilities.HTPLLogger;
+import com.qa.hippo.main.utilities.UtilClass;
 import lombok.extern.slf4j.Slf4j;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
@@ -21,6 +23,7 @@ public class verifyApproveBoqDiscountFunctionality extends BaseClass {
     OpportunityApprovalPage opportunityApprovalPage;
     ApproveBoqDiscount approveBoqDiscount;
     CreateBoqPage createBoqPage;
+    MoLogout moLogout;
     @BeforeMethod
     public void setUp(){
         login=new MoLogin(driver);
@@ -72,4 +75,5 @@ public class verifyApproveBoqDiscountFunctionality extends BaseClass {
     public void verifyFinalApprovalButton(){
         approveBoqDiscount.finalApprovalButton();
     }
+
 }

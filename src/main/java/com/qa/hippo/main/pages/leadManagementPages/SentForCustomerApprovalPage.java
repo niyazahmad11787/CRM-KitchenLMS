@@ -30,6 +30,9 @@ public class SentForCustomerApprovalPage {
     @FindBy(xpath = "//button[@type='button'][text()='Pending for Payment']")
     WebElement pendingForPaymentButton;
 
+    @FindBy(xpath = "//button[@type='button'][text()='Sent for customer approval']")
+    WebElement sentForApprovalButton;
+
     /**
      * Checks if the "Sent for Customer Approval" button is disabled.
      * If it is disabled, proceeds to fetch message ID and trigger customer approval via WhatsApp.
@@ -49,6 +52,20 @@ public class SentForCustomerApprovalPage {
         }
     }
 
+    public void checkSentForCustomerApproval(){
+        try {
+            if (!sentForApprovalButton.isEnabled()) {
+                String buttonText = sentForApprovalButton.getText();
+                HTPLLogger.info(buttonText + " is disabled. Proceeding with customer approval...");
+                fetchAndVerifyCustomerApproval();
+            } else {
+                HTPLLogger.warn(sentForApprovalButton.getText() + " is enabled. Skipping approval flow.");
+            }
+        } catch (Exception e) {
+            HTPLLogger.error("Error in checkSentForCustomerApprovalButton: " + e.getMessage());
+            throw new RuntimeException("Failed to check customer approval button", e);
+        }
+    }
     /**
      * Fetches the WhatsApp message ID for approval and triggers customer approval.
      */
@@ -87,11 +104,12 @@ public class SentForCustomerApprovalPage {
 
     public void verifyCustomerApprovalIsDone(){
         try {
+            UtilClass.sleep(2000);
             if (createOrderButton.isEnabled()) {
                 String buttonText = createOrderButton.getText();
                 HTPLLogger.info(buttonText + " is enabled && customer approval is done!!");
             } else {
-                HTPLLogger.warn(createOrderButton.getText() + " is disabled. customer approval flow nor done!!");
+                HTPLLogger.warn(createOrderButton.getText() + " is disabled. customer approval flow not done!!");
             }
 
         } catch (Exception e) {

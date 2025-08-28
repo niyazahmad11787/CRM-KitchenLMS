@@ -1,0 +1,31 @@
+[INFO ] 28 Aug 2025 12:12:23,593 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 28 Aug 2025 12:12:23,672 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 28 Aug 2025 12:12:23,695 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 28 Aug 2025 12:12:25,320 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 28 Aug 2025 12:12:25,614 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 28 Aug 2025 12:12:25,858 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 28 Aug 2025 12:12:27,112 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Search Created Customer!!!
+[INFO ] 28 Aug 2025 12:12:31,875 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Site tab!!
+[INFO ] 28 Aug 2025 12:12:34,064 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Add Site Button !!
+[INFO ] 28 Aug 2025 12:12:36,192 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Select Type of project and type of site!!
+[INFO ] 28 Aug 2025 12:12:39,004 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Randomly selected option: Repair-Maintenance
+[INFO ] 28 Aug 2025 12:12:41,632 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Randomly selected option: Apartment
+[INFO ] 28 Aug 2025 12:12:41,644 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Enter Address Details !!!
+[INFO ] 28 Aug 2025 12:13:06,357 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on created site!!
+[INFO ] 28 Aug 2025 12:13:07,704 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Site code is : S/NOS1/353
+[INFO ] 28 Aug 2025 12:13:08,259 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Scope of work tab!!!
+[INFO ] 28 Aug 2025 12:13:09,489 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Checkbox for  is not selected. Selecting it now.
+[INFO ] 28 Aug 2025 12:13:09,681 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- WardRobe checkbox is selected!!
+[INFO ] 28 Aug 2025 12:13:09,690 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Select Follow Up Date....
+[ERROR] 28 Aug 2025 12:13:09,825 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Date field already has a value: 30-08-2025. Updating to the specific date.
+[INFO ] 28 Aug 2025 12:13:09,917 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Date set to: 15-12-2024
+[INFO ] 28 Aug 2025 12:13:10,388 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Lead Owner Selected from dropdown....
+[INFO ] 28 Aug 2025 12:13:10,394 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Opportunity is created !!
+[INFO ] 28 Aug 2025 12:13:11,006 com.qa.hippo.main.pages.leadManagementPages.CreateScopeOfWork :- Opportunity Updated Successfully!
+[INFO ] 28 Aug 2025 12:13:16,655 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Logout Successfully!!!
+[INFO ] 28 Aug 2025 12:13:16,939 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 28 Aug 2025 12:13:17,236 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 28 Aug 2025 12:13:17,490 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 28 Aug 2025 12:13:23,580 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on MARK AS LOST
+[INFO ] 28 Aug 2025 12:13:24,176 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on MARK AS LOST
+[INFO ] 28 Aug 2025 12:13:24,572 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Opportunity marked as lost successfully!

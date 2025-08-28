@@ -19,71 +19,58 @@ public class verifySiteCreationFunctionality extends BaseClass {
         moLogin=new MoLogin(driver);
     }
 
-    @Test(priority = 1,enabled = false)
-    public void verifyStoreUserLogin(){
-        moLogin.performLoginOperation(ConfigLoader.get("salesUser.username"),ConfigLoader.get("salesUser.password"));
-    }
-    @Test(priority = 2)
+    @Test(priority = 1)
     public void ToverifyCrmButton(){
         boolean isCrmButtonClickable= createSitePage.verifyClickOnCrmButton();
         Assert.assertTrue(isCrmButtonClickable, "CRM button is not clickable!");
 
     }
 
-    @Test(priority = 3,dependsOnMethods = "ToverifyCrmButton")
+    @Test(priority = 2,dependsOnMethods = "ToverifyCrmButton")
     public void verifyCustomerButtonIsClickable(){
         boolean isCustomerButtonClickable = createSitePage.verifyCustomerRoleButton();
         Assert.assertTrue(isCustomerButtonClickable, "Customer button is not clickable!");
     }
-    @Test(priority = 4,dependsOnMethods = "verifyCustomerButtonIsClickable")
+    @Test(priority = 3,dependsOnMethods = "verifyCustomerButtonIsClickable")
     public void verifyCreatedCustomerOnIndexPage(){
         HTPLLogger.info("Search Created Customer!!!");
         createSitePage.verfiySearchBar();
     }
-    @Test(priority = 5,dependsOnMethods = "verifyCreatedCustomerOnIndexPage")
+    @Test(priority = 4,dependsOnMethods = "verifyCreatedCustomerOnIndexPage")
     public void verifySiteTabeIsClickable(){
         HTPLLogger.info("Click on Site tab!!");
         boolean isSitesTabClickable = createSitePage.verifySitesTab();
         Assert.assertTrue(isSitesTabClickable, "Sites tab is not clickable!");
     }
-    @Test(priority = 6,dependsOnMethods = "verifySiteTabeIsClickable")
+    @Test(priority = 5,dependsOnMethods = "verifySiteTabeIsClickable")
     public void verifyThatAddPersonButton(){
         HTPLLogger.info("Click on Add Site Button !!");
-        boolean isAddPersonButtonClickable = createSitePage.AddPersonButton();
-        Assert.assertTrue(isAddPersonButtonClickable, "Add Person button is not clickable!");
+        createSitePage.AddPersonButton();
     }
-    @Test(priority = 7,dependsOnMethods = "verifyThatAddPersonButton")
+    @Test(priority = 6,dependsOnMethods = "verifyThatAddPersonButton")
     public void verifyTypeOfProject_And_TypeOfSiteDropdown() {
         HTPLLogger.info("Select Type of project and type of site!!");
-        boolean isProjectDropdownCorrect = createSitePage.ToVerifyTypeOfProjectDropdown();
-        boolean isSiteDropdownCorrect = createSitePage.ToverifyTypeOfSiteDropdown();
-        Assert.assertTrue(isProjectDropdownCorrect, "Project dropdown values are incorrect!");
-        Assert.assertTrue(isSiteDropdownCorrect, "Site dropdown values are incorrect!");
+        createSitePage.ToVerifyTypeOfProjectDropdown();
+       createSitePage.ToverifyTypeOfSiteDropdown();
     }
-    @Test(priority = 8,dependsOnMethods = "verifyTypeOfProject_And_TypeOfSiteDropdown")
+    @Test(priority = 7,dependsOnMethods = "verifyTypeOfProject_And_TypeOfSiteDropdown")
     public void verifyAddressInputFields(){
         HTPLLogger.info("Enter Address Details !!!");
-        boolean areAddressFieldsValid = createSitePage.ToVerifyAddressFields();
-        Assert.assertTrue(areAddressFieldsValid, "Address input fields are not valid!");
-
+        createSitePage.ToVerifyAddressFields();
     }
-    @Test(priority = 9,dependsOnMethods = "verifyAddressInputFields")
+    @Test(priority = 8,dependsOnMethods = "verifyAddressInputFields")
     public void verifyOthersDataInputFields(){
         HTPLLogger.info("Enter Other Details like Carpet Area !!!");
-        boolean areOtherFieldsValid=  createSitePage.ToVerifyOtherDetailsFields();
-        Assert.assertTrue(areOtherFieldsValid, "Other input fields are not valid!");
+       createSitePage.ToVerifyOtherDetailsFields();
     }
 
-    @Test(priority = 10,dependsOnMethods = "verifyOthersDataInputFields")
+    @Test(priority = 9,dependsOnMethods = "verifyOthersDataInputFields")
     public void verifyTentativePossessionsDateIsSelected(){
         HTPLLogger.info("Enter Tentative Possessions Date!!!");
-        boolean isDateSelected = createSitePage.ToVerifyTentativePossessionDate();
-        Assert.assertTrue(isDateSelected, "Tentative possession date is not selected!");
-
+        createSitePage.ToVerifyTentativePossessionDate();
     }
-    @Test(priority = 11,dependsOnMethods = "verifyTentativePossessionsDateIsSelected")
+    @Test(priority = 10,dependsOnMethods = "verifyTentativePossessionsDateIsSelected")
     public void verifySiteisCreatedOrNot(){
-        boolean isSiteCreated= createSitePage.ToVerifySiteCreated();
-        Assert.assertTrue(isSiteCreated, "Site was not created successfully!");
+        createSitePage.ToVerifySiteCreated();
     }
 }

@@ -4,7 +4,7 @@
     <listeners>
         <listener class-name="com.qa.hippo.main.utilities.listeners.Listeners" />
     </listeners>
-    <test name="Lead Management Flow with no discount">
+    <test name="Lead Management Flow with no discount" enabled="false">
         <!-- 👇 Local parameters override or supply only to this test -->
         <parameter name="discountOption" value="NO"/>
         <parameter name="discountValue" value="0"/>
@@ -19,7 +19,6 @@
     </test>
 
     <test name="Lead Management Flow with discount" enabled="false">
-        <!-- 👇 This test gets YES + 5 -->
         <parameter name="discountOption" value="YES"/>
         <parameter name="discountValue" value="5"/>
         <classes>
@@ -29,6 +28,32 @@
             <class name="com.qa.hippo.maintests.leadCreation.verifyOpportunityApprovalFunctionality"/>
             <class name="com.qa.hippo.maintests.leadCreation.verifyCreateBoqFunctionality"/>
             <class name="com.qa.hippo.maintests.leadCreation.verifyApproveBoqDiscountFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyCustomerSentApprovalWithDiscountFunctionality"/>
+
         </classes>
     </test>
+
+    <test name="Lead Management - Change Owner" enabled="false">
+        <parameter name="discountOption" value="NO"/>
+        <parameter name="discountValue" value="5"/>
+        <classes>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyChangeOwnerFunctionality"/>
+        </classes>
+    </test>
+    <test name="E2E Flow - Create and Mark Lead as Lost">
+        <parameter name="discountOption" value="NO"/>
+        <parameter name="discountValue" value="5"/>
+        <classes>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyMarkLostFunctionality"/>
+        </classes>
+    </test>
+
+
+
 </suite>
