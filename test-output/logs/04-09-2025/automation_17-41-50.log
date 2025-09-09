@@ -1,0 +1,27 @@
+[INFO ] 04 Sep 2025 17:41:51,775 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 04 Sep 2025 17:41:51,813 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 04 Sep 2025 17:41:51,820 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 04 Sep 2025 17:41:52,891 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 04 Sep 2025 17:41:52,978 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 04 Sep 2025 17:41:53,064 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 04 Sep 2025 17:41:55,194 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on OrderButton on home page
+[INFO ] 04 Sep 2025 17:41:57,438 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Create Request
+[INFO ] 04 Sep 2025 17:41:59,510 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :-  delivery type is selected!!!
+[INFO ] 04 Sep 2025 17:42:06,656 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer is searched!!!
+[INFO ] 04 Sep 2025 17:42:06,917 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Searched customer name :testing_flow
+[INFO ] 04 Sep 2025 17:42:09,069 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer address :TEST New Delhi, Delhi 110010, India Delhi DELHI 110010 7JWVH4VC+5P India
+[ERROR] 04 Sep 2025 17:42:11,098 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Store name is enabled!!
+[INFO ] 04 Sep 2025 17:42:11,653 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on system price toggle!!
+[INFO ] 04 Sep 2025 17:42:13,682 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Remarks dropdown is disabled!!
+[INFO ] 04 Sep 2025 17:42:18,112 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- SKU Name :PHILIPS 5W ROUND ASTRA MAX PLUS LED - WARM WHITE METAL DOWNLIGHTER
+[INFO ] 04 Sep 2025 17:42:20,203 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Sku Price :125.00
+[INFO ] 04 Sep 2025 17:42:22,288 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Inventory :
+[INFO ] 04 Sep 2025 17:42:24,392 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Desired price :125.00
+[INFO ] 04 Sep 2025 17:42:28,674 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Total Order value :18750.00
+[INFO ] 04 Sep 2025 17:42:30,802 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Add button!!
+[INFO ] 04 Sep 2025 17:42:34,047 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Add button!!
+[INFO ] 04 Sep 2025 17:42:36,117 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Full Success Message: Manual Order Request has been created with request number MSOR/11218
+[INFO ] 04 Sep 2025 17:42:36,120 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Extracted Request Number: MSOR/11218
+[INFO ] 04 Sep 2025 17:42:40,238 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Stage button!!
+[INFO ] 04 Sep 2025 17:42:43,720 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Add button!!
+[INFO ] 04 Sep 2025 17:42:43,978 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on OkButton!!

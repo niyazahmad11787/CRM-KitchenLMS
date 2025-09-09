@@ -1,0 +1,12 @@
+[INFO ] 01 Sep 2025 14:39:43,341 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 01 Sep 2025 14:39:43,486 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 01 Sep 2025 14:39:43,518 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 01 Sep 2025 14:39:44,973 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 01 Sep 2025 14:39:45,245 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 01 Sep 2025 14:39:45,520 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 01 Sep 2025 14:39:47,967 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on OrderButton on home page
+[INFO ] 01 Sep 2025 14:39:50,530 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Create Request
+[INFO ] 01 Sep 2025 14:39:52,637 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :-  delivery type is selected!!!
+[INFO ] 01 Sep 2025 14:39:55,442 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer is searched!!!
+[INFO ] 01 Sep 2025 14:39:55,856 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Searched customer name :
+[INFO ] 01 Sep 2025 14:39:58,060 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer address :TEST New Delhi, Delhi 110010, India Delhi DELHI 110010 7JWVH4VC+5P India

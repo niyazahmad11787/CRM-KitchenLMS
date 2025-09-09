@@ -1,0 +1,10 @@
+[ERROR] 09 Sep 2025 15:50:24,565 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Error launching browser: Could not start a new session. Response code 500. Message: Could not start a new session. No nodes support the capabilities in the request 
+Host info: host: '8268de5c5aab', ip: '172.17.0.2'
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.6.87.2-microsoft-standard-WSL2', java.version: '21.0.8'
+Driver info: driver.version: unknown
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome}]}]
+Capabilities {browserName: chrome}

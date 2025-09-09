@@ -1,0 +1,9 @@
+[INFO ] 29 Aug 2025 14:59:48,587 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 29 Aug 2025 14:59:48,626 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 29 Aug 2025 14:59:48,647 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 29 Aug 2025 14:59:49,639 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 29 Aug 2025 14:59:49,757 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 29 Aug 2025 14:59:49,845 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 29 Aug 2025 14:59:51,956 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on OrderButton on home page
+[INFO ] 29 Aug 2025 14:59:54,206 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Create Request
+[ERROR] 29 Aug 2025 14:59:54,448 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- No delivery type is selected!!

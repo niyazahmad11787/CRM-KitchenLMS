@@ -1,15 +1,35 @@
-<suite name="SmokeSuite" verbose="1" preserve-order="true">
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CustomerCreationSuite" verbose="1"
+       preserve-order="true" parallel="tests"
+       thread-count="2" configfailurepolicy="skip">
+
+
+    <!-- Common parameters -->
     <parameter name="Env" value="staging" />
 
-    <!-- Attach Listeners (e.g., Extent Report, Retry, Screenshots) -->
     <listeners>
         <listener class-name="com.qa.hippo.main.utilities.listeners.Listeners" />
     </listeners>
 
-    <test name="Smoke Tests">
+    <test name="E2E Flow Without Discount">
+        <parameter name="discountOption" value="NO"/>
+        <parameter name="discountValue" value="0"/>
         <classes>
             <class name="com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality"/>
-            <class name="com.qa.hippo.maintests.customercreation.verifyMobileNumberVerificationFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyMarkLostFunctionality"/>
         </classes>
     </test>
+
+    <test name="E2E Flow With Discount">
+        <parameter name="discountOption" value="YES"/>
+        <parameter name="discountValue" value="10"/>
+        <classes>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifySiteCreationFunctionality"/>
+            <class name="com.qa.hippo.maintests.leadCreation.verifyAddScopeOfWorkFunctionality"/>
+        </classes>
+    </test>
+
 </suite>

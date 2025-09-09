@@ -1,0 +1,19 @@
+[INFO ] 01 Sep 2025 16:22:51,883 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 01 Sep 2025 16:22:51,972 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 01 Sep 2025 16:22:51,991 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 01 Sep 2025 16:22:53,709 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 01 Sep 2025 16:22:53,936 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 01 Sep 2025 16:22:54,176 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 01 Sep 2025 16:22:56,481 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on OrderButton on home page
+[INFO ] 01 Sep 2025 16:22:58,980 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Create Request
+[INFO ] 01 Sep 2025 16:23:01,093 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :-  delivery type is selected!!!
+[INFO ] 01 Sep 2025 16:23:04,168 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer is searched!!!
+[INFO ] 01 Sep 2025 16:23:04,493 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Searched customer name :testing_flow
+[INFO ] 01 Sep 2025 16:23:06,668 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer address :TEST New Delhi, Delhi 110010, India Delhi DELHI 110010 7JWVH4VC+5P India
+[ERROR] 01 Sep 2025 16:23:08,707 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Store name is enabled!!
+[INFO ] 01 Sep 2025 16:23:09,507 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on system price toggle!!
+[INFO ] 01 Sep 2025 16:23:11,571 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Remarks dropdown is disabled!!
+[INFO ] 01 Sep 2025 16:23:16,297 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- SKU Name :PHLP 10W RND ASTRA PRM LED COLDY LGHT DL
+[INFO ] 01 Sep 2025 16:23:18,379 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Sku Price :0
+[INFO ] 01 Sep 2025 16:23:20,498 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Inventory :0.00
+[INFO ] 01 Sep 2025 16:23:22,608 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Desired price :0

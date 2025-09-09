@@ -1,0 +1,7 @@
+[ERROR] 09 Sep 2025 12:00:30,448 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Error launching browser: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'AHMED_NIYAZ', ip: '192.168.1.141'
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome}]}]
+Capabilities {browserName: chrome}

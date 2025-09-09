@@ -1,0 +1,15 @@
+<suite name="SmokeSuite" verbose="1" preserve-order="true">
+    <parameter name="Env" value="staging" />
+
+    <!-- Attach Listeners (e.g., Extent Report, Retry, Screenshots) -->
+    <listeners>
+        <listener class-name="com.qa.hippo.main.utilities.listeners.Listeners" />
+    </listeners>
+
+    <test name="E2E - verify Order creation">
+        <classes>
+           <class name="com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality"></class>
+           <class name="com.qa.hippo.maintests.ordercreation.VerifyNonNegotiatedOrderScenario"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,29 @@
+[INFO ] 04 Sep 2025 17:07:52,832 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Chrome launched successfully
+[INFO ] 04 Sep 2025 17:07:52,920 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Maximized browser
+[INFO ] 04 Sep 2025 17:07:52,940 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Deleted all cookies
+[INFO ] 04 Sep 2025 17:07:54,349 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- UserId is Entered!!
+[INFO ] 04 Sep 2025 17:07:54,616 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Password is Entered!!!
+[INFO ] 04 Sep 2025 17:07:54,894 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Login Button!!
+[INFO ] 04 Sep 2025 17:07:57,164 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on OrderButton on home page
+[INFO ] 04 Sep 2025 17:07:59,713 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Click on Create Request
+[INFO ] 04 Sep 2025 17:08:01,815 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :-  delivery type is selected!!!
+[INFO ] 04 Sep 2025 17:08:04,603 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer is searched!!!
+[INFO ] 04 Sep 2025 17:08:04,926 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Searched customer name :testing_flow
+[INFO ] 04 Sep 2025 17:08:07,087 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Customer address :TEST New Delhi, Delhi 110010, India Delhi DELHI 110010 7JWVH4VC+5P India
+[ERROR] 04 Sep 2025 17:08:09,142 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Store name is enabled!!
+[INFO ] 04 Sep 2025 17:08:09,934 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on system price toggle!!
+[INFO ] 04 Sep 2025 17:08:12,025 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Remarks dropdown is disabled!!
+[INFO ] 04 Sep 2025 17:08:38,885 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Total Order value :0.00
+[INFO ] 04 Sep 2025 17:08:41,196 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Add button!!
+[INFO ] 04 Sep 2025 17:08:44,486 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Clicked on Add button!!
+[INFO ] 04 Sep 2025 17:08:46,628 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Full Success Message: Add 1 or more SKU request to submit
+[ERROR] 04 Sep 2025 17:08:46,628 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Could not extract request number from message: Add 1 or more SKU request to submit
+[ERROR] 04 Sep 2025 17:09:08,102 com.qa.hippo.maintests.leadCreation.verifyMOLoginFunctionality :- Failed to click on Stage button: element click intercepted: Element <p class="MuiTypography-root MuiTypography-body1 tss-1xte2ke-tableBoxC css-9l3uo3">...</p> is not clickable at point (1278, 517). Other element would receive the click: <p class="MuiTypography-root MuiTypography-body1 tss-1xdmwgb-autoCcontent css-9l3uo3">...</p>
+  (Session info: chrome=139.0.7258.155)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [49a488fa23df2a4a896e18e20a732f3d, clickElement {id=f.DD36668648432A37CCD03041C001B277.d.C26889BE4535187A4C5A392F4C74F533.e.226}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.155, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: C:\Users\AHMED~1.NIY\AppDat...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53708}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53708/devtoo..., se:cdpVersion: 139.0.7258.155, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (49a488fa23df2a4a896e18e20a732f3d)] -> xpath: //div[@data-testid='stageTest']/p]
+Session ID: 49a488fa23df2a4a896e18e20a732f3d
